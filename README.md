@@ -7,6 +7,7 @@ Dataset for wild benchmarking ML engineering agents on realistic train delay pre
 - **DWD (Deutscher Wetterdienst)** - (https://wetterdienst.readthedocs.io/en/latest/)
 
 ## Dataset Structure
+```
 dataset/
 ├── DB/
 │   ├── berlin_station_schema.json     # OpenAPI schema for station data
@@ -22,7 +23,7 @@ dataset/
 └── weather/
     ├── weather_stations_metadata.csv  # Metadata for 64 DWD weather stations
     └── {stationId}_{name}.csv         # Hourly weather data per station
-
+```
 ## Key Features
 - 133 Berlin train stations with EVA numbers and geographic coordinates
 - Train planned timetables + real-time changes (delays, cancellations, disruptions)
