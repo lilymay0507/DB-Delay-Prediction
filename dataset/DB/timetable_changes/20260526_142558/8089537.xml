@@ -1,0 +1,875 @@
+<timetable station="Berlin Julius-Leber-Brücke" eva="8089537">
+
+<s id="726969013825416837-2605261439-13" eva="8089537">
+    <ar ct="2605261504" l="S1"/>
+    <dp ct="2605261504" l="S1"/>
+</s>
+
+
+<s id="8954708290445672037-2605261435-18" eva="8089537">
+    <ar ct="2605261516" l="S1"/>
+    <dp ct="2605261516" l="S1"/>
+</s>
+
+
+<s id="2550551608445398519-2605261354-13" eva="8089537">
+    <ar ct="2605261419" l="S1"/>
+    <dp ct="2605261420" l="S1"/>
+</s>
+
+
+<s id="-6455031593922641955-2605261335-18" eva="8089537">
+    <ar ct="2605261418" l="S1"/>
+    <dp ct="2605261419" l="S1"/>
+</s>
+
+
+<s id="1228099043241115084-2605261434-13" eva="8089537">
+    <ar ct="2605261459" l="S1"/>
+    <dp ct="2605261459" l="S1"/>
+</s>
+
+
+<s id="774100629483791038-2605261431-23" eva="8089537">
+    <ar ct="2605261526" l="S1"/>
+    <dp ct="2605261526" l="S1"/>
+</s>
+
+
+<s id="3964544139378566782-2605261429-13" eva="8089537">
+    <ar ct="2605261454" l="S1"/>
+    <dp ct="2605261454" l="S1"/>
+</s>
+
+
+<s id="-8713033717530433151-2605261344-13" eva="8089537">
+    <ar cpth="Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261409" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261410" l="S1"/>
+</s>
+
+
+<s id="6947595865349591649-2605261424-13" eva="8089537">
+    <ar ct="2605261449" l="S1"/>
+    <dp ct="2605261449" l="S1"/>
+</s>
+
+
+<s id="6784487211600579348-2605261311-23" eva="8089537">
+    <ar ct="2605261406" l="S1"/>
+    <dp ct="2605261407" l="S1"/>
+</s>
+
+
+<s id="5932952352152238438-2605261334-13" eva="8089537">
+    <ar ct="2605261359" l="S1"/>
+    <dp ct="2605261400" l="S1"/>
+</s>
+
+
+<s id="-1879660515032090037-2605261415-18" eva="8089537">
+    <ar ct="2605261456" l="S1"/>
+    <dp ct="2605261456" l="S1"/>
+</s>
+
+
+<s id="6056724838551233796-2605261414-13" eva="8089537">
+    <ar ct="2605261439" l="S1"/>
+    <dp ct="2605261439" l="S1"/>
+</s>
+
+
+<s id="5670150254095344767-2605261315-18" eva="8089537">
+    <ar ct="2605261356" l="S1"/>
+    <dp ct="2605261357" l="S1"/>
+</s>
+
+
+<s id="4462983284372307399-2605261411-23" eva="8089537">
+    <ar ct="2605261506" l="S1"/>
+    <dp ct="2605261506" l="S1"/>
+</s>
+
+
+<s id="5939993262368712436-2605261324-13" eva="8089537">
+    <ar cpth="Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261349" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261350" l="S1"/>
+</s>
+
+
+<s id="8743417838421331689-2605261404-13" eva="8089537">
+    <ar ct="2605261429" l="S1"/>
+    <dp ct="2605261429" l="S1"/>
+</s>
+
+
+<s id="2049103661161980963-2605261251-23" eva="8089537">
+    <ar ct="2605261346" l="S1"/>
+    <dp ct="2605261347" l="S1"/>
+</s>
+
+
+<s id="6101075731607145659-2605261355-18" eva="8089537">
+    <ar ct="2605261436" l="S1"/>
+    <dp ct="2605261436" l="S1"/>
+</s>
+
+
+<s id="-3207641768684853403-2605261314-13" eva="8089537">
+    <ar ct="2605261339" l="S1"/>
+    <dp ct="2605261340" l="S1"/>
+</s>
+
+
+<s id="4914604482109737474-2605261255-18" eva="8089537">
+    <ar ct="2605261336" l="S1"/>
+    <dp ct="2605261337" l="S1"/>
+</s>
+
+
+<s id="841306140217331951-2605261304-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261329" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261330" l="S1"/>
+</s>
+
+
+<s id="-7181638878852047362-2605261224-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261249" cs="p" clt="2605261217" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261250" cs="p" clt="2605261217" l="S1"/>
+</s>
+
+
+<s id="8636196545285041752-2605261244-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261309" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261310" l="S1"/>
+</s>
+
+
+<s id="3881415846983415530-2605261351-23" eva="8089537">
+    <ar ct="2605261446" l="S1"/>
+    <dp ct="2605261446" l="S1"/>
+</s>
+
+
+<s id="8386957451650566363-2605261231-23" eva="8089537">
+    <ar ct="2605261332" l="S1"/>
+    <dp ct="2605261333" l="S1"/>
+</s>
+
+
+<s id="2797420159025155747-2605261044-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261109" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261110" l="S1"/>
+</s>
+
+
+<s id="308448635284740799-2605261144-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261212" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261213" l="S1"/>
+</s>
+
+
+<s id="-1654285359393140584-2605261104-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261129" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261130" l="S1"/>
+</s>
+
+
+<s id="-6607739963333126454-2605261204-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261229" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261230" l="S1"/>
+</s>
+
+
+<s id="5156841409354974715-2605261124-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261149" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261150" l="S1"/>
+</s>
+
+
+<s id="-1353584245745207711-2605261254-13" eva="8089537">
+    <ar ct="2605261319" l="S1"/>
+    <dp ct="2605261320" l="S1"/>
+</s>
+
+
+<s id="-4128041871284193783-2605261235-18" eva="8089537">
+    <ar ct="2605261317" l="S1"/>
+    <dp ct="2605261318" l="S1"/>
+</s>
+
+
+<s id="8695487084543627662-2605261331-23" eva="8089537">
+    <ar ct="2605261426" l="S1"/>
+    <dp ct="2605261426" l="S1"/>
+</s>
+
+
+<s id="1715603565170606474-2605261211-23" eva="8089537">
+    <ar ct="2605261307" l="S1"/>
+    <dp ct="2605261308" l="S1"/>
+</s>
+
+
+<s id="8011655206424851534-2605261234-13" eva="8089537">
+    <ar ct="2605261259" l="S1"/>
+    <dp ct="2605261300" l="S1"/>
+</s>
+
+
+<s id="1526507198905727989-2605261215-18" eva="8089537">
+    <ar ct="2605261256" l="S1"/>
+    <dp ct="2605261257" l="S1"/>
+</s>
+
+
+<s id="-8558889495623945683-2605261203-19" eva="8089537">
+    <ar ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" pp="1" ct="2605261248" pt="2605261245" l="1" fb="S 1"/>
+    <dp ppth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2605261249" pt="2605261246" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10097"/>
+</s>
+
+
+<s id="1555138346406256057-2605261214-13" eva="8089537">
+    <ar ct="2605261240" l="S1"/>
+    <dp ct="2605261240" l="S1"/>
+</s>
+
+
+<s id="8798506317632074015-2605261155-18" eva="8089537">
+    <ar ct="2605261236" l="S1"/>
+    <dp ct="2605261237" l="S1"/>
+</s>
+
+
+<s id="1249006753985684559-2605261131-23" eva="8089537">
+    <ar ct="2605261227" l="S1"/>
+    <dp ct="2605261227" l="S1"/>
+</s>
+
+
+<s id="6527890210362704210-2605261154-13" eva="8089537">
+    <ar ct="2605261219" l="S1"/>
+    <dp ct="2605261219" l="S1"/>
+</s>
+
+
+<s id="-6944640205882483505-2605261135-18" eva="8089537">
+    <ar ct="2605261216" l="S1"/>
+    <dp ct="2605261217" l="S1"/>
+</s>
+
+
+<s id="2981070910838239325-2605270723-19" eva="8089537">
+    <ar cpth="" ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" pp="1" pt="2605270804" cs="c" clt="2605261210" l="1" fb="S 1"/>
+    <dp cpth="" ppth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" pt="2605270805" cs="c" clt="2605261210" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10069"/>
+</s>
+
+
+<s id="6348599890745672156-2605261111-23" eva="8089537">
+    <ar ct="2605261206" l="S1"/>
+    <dp ct="2605261207" l="S1"/>
+</s>
+
+
+<s id="-4380746451017406535-2605261134-13" eva="8089537">
+    <ar ct="2605261159" l="S1"/>
+    <dp ct="2605261200" l="S1"/>
+</s>
+
+
+<s id="-2126206237271499485-2605261115-18" eva="8089537">
+    <ar ct="2605261157" l="S1"/>
+    <dp ct="2605261158" l="S1"/>
+</s>
+
+
+<s id="5843197686694192087-2605261051-23" eva="8089537">
+    <ar ct="2605261147" l="S1"/>
+    <dp ct="2605261147" l="S1"/>
+</s>
+
+
+<s id="8179814534007398710-2605261114-13" eva="8089537">
+    <ar ct="2605261139" l="S1"/>
+    <dp ct="2605261140" l="S1"/>
+</s>
+
+
+<s id="-8696302329435492027-2605261055-18" eva="8089537">
+    <ar ct="2605261136" l="S1"/>
+    <dp ct="2605261137" l="S1"/>
+</s>
+
+
+<s id="1088535020200624871-2605261031-23" eva="8089537">
+    <ar ct="2605261127" l="S1"/>
+    <dp ct="2605261128" l="S1"/>
+</s>
+
+
+<s id="-1852382614679887550-2605261054-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261119" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2605261120" l="S1"/>
+</s>
+
+
+<s id="-2911821122900541657-2605261151-23" eva="8089537">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)" cs="c" clt="2605261114" l="S1"/>
+    <dp cpth="" cs="c" clt="2605261114" l="S1"/>
+</s>
+
+
+<s id="-7084038903585514973-2605261035-18" eva="8089537">
+    <ar ct="2605261116" l="S1"/>
+    <dp ct="2605261117" l="S1"/>
+</s>
+
+
+<s id="6759045818010246544-2605261011-23" eva="8089537">
+    <ar ct="2605261107" l="S1"/>
+    <dp ct="2605261108" l="S1"/>
+</s>
+
+
+<s id="8809983536951184310-2605261034-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605261059" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf" ct="2605261100" l="S1"/>
+</s>
+
+
+<s id="-6123655235436820022-2605261015-18" eva="8089537">
+    <ar ct="2605261058" l="S1"/>
+    <dp ct="2605261058" l="S1"/>
+</s>
+
+
+<s id="-3486310083662654682-2605261024-13" eva="8089537">
+    <ar ct="2605261049" l="S1"/>
+    <dp ct="2605261049" l="S1"/>
+</s>
+
+
+<s id="6470517583049106590-2605260951-23" eva="8089537">
+    <ar ct="2605261047" l="S1"/>
+    <dp ct="2605261048" l="S1"/>
+</s>
+
+
+<s id="-5688463078112584623-2605261014-13" eva="8089537">
+    <ar ct="2605261039" l="S1"/>
+    <dp ct="2605261040" l="S1"/>
+</s>
+
+
+<s id="1839465458389801120-2605260955-18" eva="8089537">
+    <ar ct="2605261036" l="S1"/>
+    <dp ct="2605261037" l="S1"/>
+</s>
+
+
+<s id="3864167694597402781-2605261004-13" eva="8089537">
+    <ar ct="2605261030" l="S1"/>
+    <dp ct="2605261030" l="S1"/>
+</s>
+
+
+<s id="-1020539789936835065-2605260931-23" eva="8089537">
+    <ar ct="2605261026" l="S1"/>
+    <dp ct="2605261027" l="S1"/>
+</s>
+
+
+<s id="7471292086578022963-2605260954-13" eva="8089537">
+    <ar ct="2605261019" l="S1"/>
+    <dp ct="2605261020" l="S1"/>
+</s>
+
+
+<s id="6277659116072466112-2605260935-18" eva="8089537">
+    <ar ct="2605261017" l="S1"/>
+    <dp ct="2605261018" l="S1"/>
+</s>
+
+
+<s id="-8145754445168957056-2605260944-13" eva="8089537">
+    <ar ct="2605261009" l="S1"/>
+    <dp ct="2605261010" l="S1"/>
+</s>
+
+
+<s id="8553189944614822522-2605260911-23" eva="8089537">
+    <ar ct="2605261007" l="S1"/>
+    <dp ct="2605261008" l="S1"/>
+</s>
+
+
+<s id="-2046174448513995529-2605260934-13" eva="8089537">
+    <ar ct="2605260959" l="S1"/>
+    <dp ct="2605261000" l="S1"/>
+</s>
+
+
+<s id="-2058573886405627558-2605260915-18" eva="8089537">
+    <ar ct="2605260957" l="S1"/>
+    <dp ct="2605260957" l="S1"/>
+</s>
+
+
+<s id="8647255251912915148-2605260924-13" eva="8089537">
+    <ar ct="2605260949" l="S1"/>
+    <dp ct="2605260950" l="S1"/>
+</s>
+
+
+<s id="2243751880507433014-2605260851-23" eva="8089537">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" ct="2605260946" l="S1"/>
+    <dp cpth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2605260947" l="S1"/>
+</s>
+
+
+<s id="-5475735752381963843-2605260928-9" eva="8089537">
+    <ar ct="2605260944" l="S1"/>
+    <dp ct="2605260945" l="S1"/>
+</s>
+
+
+<s id="1263620453779957120-2605260934-4" eva="8089537">
+    <ar ct="2605260941" l="S1"/>
+    <dp ct="2605260942" l="S1"/>
+</s>
+
+
+<s id="-5444509549961414149-2605260914-13" eva="8089537">
+    <ar ct="2605260939" l="S1"/>
+    <dp ct="2605260940" l="S1"/>
+</s>
+
+
+<s id="-8728395287863435816-2605260855-18" eva="8089537">
+    <ar ct="2605260937" l="S1"/>
+    <dp ct="2605260937" l="S1"/>
+</s>
+
+
+<s id="-4916449420098490852-2605260918-9" eva="8089537">
+    <ar ct="2605260934" l="S1"/>
+    <dp ct="2605260935" l="S1"/>
+</s>
+
+
+<s id="4671045127005785161-2605260924-4" eva="8089537">
+    <ar ct="2605260932" l="S1"/>
+    <dp ct="2605260932" l="S1"/>
+</s>
+
+
+<s id="5344203901431566423-2605260904-13" eva="8089537">
+    <ar ct="2605260929" l="S1"/>
+    <dp ct="2605260930" l="S1"/>
+</s>
+
+
+<s id="2634514173084792014-2605260831-23" eva="8089537">
+    <ar ct="2605260926" l="S1"/>
+    <dp ct="2605260927" l="S1"/>
+</s>
+
+
+<s id="-972755160178255164-2605260908-9" eva="8089537">
+    <ar ct="2605260924" l="S1"/>
+    <dp ct="2605260925" l="S1"/>
+</s>
+
+
+<s id="7578755263935535681-2605260914-4" eva="8089537">
+    <ar ct="2605260921" l="S1"/>
+    <dp ct="2605260921" l="S1"/>
+</s>
+
+
+<s id="-4372902990706972824-2605260854-13" eva="8089537">
+    <ar cpth="Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605260919" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" ct="2605260920" l="S1"/>
+</s>
+
+
+<s id="2607258187971675669-2605260835-18" eva="8089537">
+    <ar ct="2605260917" l="S1"/>
+    <dp ct="2605260918" l="S1"/>
+</s>
+
+
+<s id="670120236440678534-2605260858-9" eva="8089537">
+    <ar ct="2605260914" l="S1"/>
+    <dp ct="2605260915" l="S1"/>
+</s>
+
+
+<s id="4429297349441916393-2605260904-4" eva="8089537">
+    <ar ct="2605260912" l="S1"/>
+    <dp ct="2605260913" l="S1"/>
+</s>
+
+
+<s id="-3505384184156903485-2605260844-13" eva="8089537">
+    <ar ct="2605260909" l="S1"/>
+    <dp ct="2605260910" l="S1"/>
+</s>
+
+
+<s id="6714095118557531938-2605260811-23" eva="8089537">
+    <ar ct="2605260907" l="S1"/>
+    <dp ct="2605260908" l="S1"/>
+</s>
+
+
+<s id="-5572079932330556988-2605260854-4" eva="8089537">
+    <ar ct="2605260903" l="S1"/>
+    <dp ct="2605260904" l="S1"/>
+</s>
+
+
+<s id="-8954323635620633270-2605260834-13" eva="8089537">
+    <ar ct="2605260859" l="S1"/>
+    <dp ct="2605260900" l="S1"/>
+</s>
+
+
+<s id="-9000021639174556835-2605260815-18" eva="8089537">
+    <ar ct="2605260858" l="S1"/>
+    <dp ct="2605260859" l="S1"/>
+</s>
+
+
+<s id="-2302874524064716234-2605260838-9" eva="8089537">
+    <ar ct="2605260854" l="S1"/>
+    <dp ct="2605260855" l="S1"/>
+</s>
+
+
+<s id="-3567789068003715883-2605260844-4" eva="8089537">
+    <ar ct="2605260852" l="S1"/>
+    <dp ct="2605260853" l="S1"/>
+</s>
+
+
+<s id="5407846585181429487-2605260824-13" eva="8089537">
+    <ar ct="2605260849" l="S1"/>
+    <dp ct="2605260850" l="S1"/>
+</s>
+
+
+<s id="1906266522083467603-2605260751-23" eva="8089537">
+    <ar ct="2605260848" l="S1"/>
+    <dp ct="2605260848" l="S1"/>
+</s>
+
+
+<s id="-8106703850946351377-2605260828-9" eva="8089537">
+    <ar ct="2605260844" l="S1"/>
+    <dp ct="2605260845" l="S1"/>
+</s>
+
+
+<s id="-6996472445901773835-2605260834-4" eva="8089537">
+    <ar ct="2605260841" l="S1"/>
+    <dp ct="2605260842" l="S1"/>
+</s>
+
+
+<s id="-8900853721145935215-2605260814-13" eva="8089537">
+    <ar ct="2605260839" l="S1"/>
+    <dp ct="2605260840" l="S1"/>
+</s>
+
+
+<s id="1149800491036808129-2605260755-18" eva="8089537">
+    <ar ct="2605260839" l="S1"/>
+    <dp ct="2605260840" l="S1"/>
+</s>
+
+
+<s id="5451745575987139341-2605260818-9" eva="8089537">
+    <ar ct="2605260834" l="S1"/>
+    <dp ct="2605260835" l="S1"/>
+</s>
+
+
+<s id="3745730244694964226-2605260824-4" eva="8089537">
+    <ar ct="2605260831" l="S1"/>
+    <dp ct="2605260832" l="S1"/>
+</s>
+
+
+<s id="-3832860924728279914-2605260804-13" eva="8089537">
+    <ar ct="2605260829" l="S1"/>
+    <dp ct="2605260830" l="S1"/>
+</s>
+
+
+<s id="-5552247176246032799-2605260731-23" eva="8089537">
+    <ar cpth="Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" ct="2605260827" l="S1"/>
+    <dp cpth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" ct="2605260828" l="S1"/>
+</s>
+
+
+<s id="5801880676864447273-2605260808-9" eva="8089537">
+    <ar ct="2605260824" l="S1"/>
+    <dp ct="2605260825" l="S1"/>
+</s>
+
+
+<s id="2981070910838239325-2605260723-19" eva="8089537">
+    <ar cpth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)" pp="1" ct="2605260822" pt="2605260805" l="1" fb="S 1"/>
+    <dp cpth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" ppth="Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee|Berlin-Nikolassee|Berlin-Wannsee (S)" pp="1" ct="2605260823" pt="2605260806" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10069"/>
+</s>
+
+
+<s id="-4945425538632673766-2605260754-13" eva="8089537">
+    <ar ct="2605260819" l="S1"/>
+    <dp ct="2605260819" l="S1"/>
+</s>
+
+
+<s id="-8075670878926216068-2605260735-18" eva="8089537">
+    <ar ct="2605260818" l="S1"/>
+    <dp ct="2605260819" l="S1"/>
+</s>
+
+
+<s id="1680818676450029258-2605260758-9" eva="8089537">
+    <ar ct="2605260814" l="S1"/>
+    <dp ct="2605260815" l="S1"/>
+</s>
+
+
+<s id="5021080950653629211-2605260804-4" eva="8089537">
+    <ar ct="2605260812" l="S1"/>
+    <dp ct="2605260812" l="S1"/>
+</s>
+
+
+<s id="-8769821864380529772-2605260744-13" eva="8089537">
+    <ar ct="2605260809" l="S1"/>
+    <dp ct="2605260810" l="S1"/>
+</s>
+
+
+<s id="-21629742038983471-2605260748-9" eva="8089537">
+    <ar ct="2605260804" l="S1"/>
+    <dp ct="2605260805" l="S1"/>
+</s>
+
+
+<s id="4995069370548417908-2605260754-4" eva="8089537">
+    <ar ct="2605260802" l="S1"/>
+    <dp ct="2605260803" l="S1"/>
+</s>
+
+
+<s id="7603533568372174555-2605260734-13" eva="8089537">
+    <ar ct="2605260759" l="S1"/>
+    <dp ct="2605260800" l="S1"/>
+</s>
+
+
+<s id="5480210442512211411-2605260715-18" eva="8089537">
+    <ar ct="2605260756" l="S1"/>
+    <dp ct="2605260757" l="S1"/>
+</s>
+
+
+<s id="-6196408806818334596-2605260738-9" eva="8089537">
+    <ar ct="2605260754" l="S1"/>
+    <dp ct="2605260755" l="S1"/>
+</s>
+
+
+<s id="-7237282951070407163-2605260848-9" eva="8089537">
+    <ar cpth="" cs="c" clt="2605260753" l="S1"/>
+    <dp cpth="" cs="c" clt="2605260753" l="S1"/>
+</s>
+
+
+<s id="5615031783369195165-2605260814-4" eva="8089537">
+    <ar cpth="" cs="c" clt="2605260753" l="S1"/>
+    <dp cpth="" cs="c" clt="2605260753" l="S1"/>
+</s>
+
+
+<s id="-3375704141185358291-2605260744-4" eva="8089537">
+    <ar ct="2605260751" l="S1"/>
+    <dp ct="2605260752" l="S1"/>
+</s>
+
+
+<s id="1120248909480865841-2605260724-13" eva="8089537">
+    <ar ct="2605260749" l="S1"/>
+    <dp ct="2605260750" l="S1"/>
+</s>
+
+
+<s id="93802085369781544-2605260651-23" eva="8089537">
+    <ar ct="2605260746" l="S1"/>
+    <dp ct="2605260747" l="S1"/>
+</s>
+
+
+<s id="-7652875199961539517-2605260719-13" eva="8089537">
+    <ar ct="2605260744" l="S1"/>
+    <dp ct="2605260745" l="S1"/>
+</s>
+
+
+<s id="619979704633841208-2605260734-4" eva="8089537">
+    <ar ct="2605260741" l="S1"/>
+    <dp ct="2605260742" l="S1"/>
+</s>
+
+
+<s id="-6865645098420147576-2605260714-13" eva="8089537">
+    <ar ct="2605260740" l="S1"/>
+    <dp ct="2605260741" l="S1"/>
+</s>
+
+
+<s id="1791660472015178827-2605260655-18" eva="8089537">
+    <ar ct="2605260736" l="S1"/>
+    <dp ct="2605260737" l="S1"/>
+</s>
+
+
+<s id="8120603910668618687-2605260709-13" eva="8089537">
+    <ar ct="2605260734" l="S1"/>
+    <dp ct="2605260735" l="S1"/>
+</s>
+
+
+<s id="6971756372754887193-2605260724-4" eva="8089537">
+    <ar ct="2605260731" l="S1"/>
+    <dp ct="2605260732" l="S1"/>
+</s>
+
+
+<s id="2243570068862004967-2605260704-13" eva="8089537">
+    <ar ct="2605260729" l="S1"/>
+    <dp ct="2605260730" l="S1"/>
+</s>
+
+
+<s id="-8123594914713961525-2605260711-23" eva="8089537">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)" ct="2605260811" cs="c" clt="2605260727" l="S1"/>
+    <dp cpth="" ct="2605260812" cs="c" clt="2605260727" l="S1"/>
+</s>
+
+
+<s id="-6226180708724804686-2605260631-23" eva="8089537">
+    <ar ct="2605260726" l="S1"/>
+    <dp ct="2605260727" l="S1"/>
+</s>
+
+
+<s id="-2656842248604378999-2605260659-13" eva="8089537">
+    <ar ct="2605260724" l="S1"/>
+    <dp ct="2605260725" l="S1"/>
+</s>
+
+
+<s id="-657222865300236134-2605260614-13" eva="8089537">
+    <ar cpth="Berlin-Wannsee (S)|Berlin-Nikolassee|Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg" ct="2605260639" l="S1"/>
+    <dp cpth="Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2605260640" l="S1"/>
+</s>
+
+
+<s id="6319194147588545896-2605260714-4" eva="8089537">
+    <ar ct="2605260721" l="S1"/>
+    <dp ct="2605260722" l="S1"/>
+</s>
+
+
+<s id="6562316651986444316-2605260654-13" eva="8089537">
+    <ar ct="2605260719" l="S1"/>
+    <dp ct="2605260720" l="S1"/>
+</s>
+
+
+<s id="4242613247259718315-2605260635-18" eva="8089537">
+    <ar ct="2605260716" l="S1"/>
+    <dp ct="2605260717" l="S1"/>
+</s>
+
+
+<s id="4978981617272558222-2605260649-13" eva="8089537">
+    <ar ct="2605260714" l="S1"/>
+    <dp ct="2605260715" l="S1"/>
+</s>
+
+
+<s id="1429809733547495217-2605260704-4" eva="8089537">
+    <ar ct="2605260711" l="S1"/>
+    <dp ct="2605260712" l="S1"/>
+</s>
+
+
+<s id="7484612538207867028-2605260644-13" eva="8089537">
+    <ar ct="2605260710" l="S1"/>
+    <dp ct="2605260711" l="S1"/>
+</s>
+
+
+<s id="-4540155152290178698-2605260611-23" eva="8089537">
+    <ar ct="2605260706" l="S1"/>
+    <dp ct="2605260707" l="S1"/>
+</s>
+
+
+<s id="8831180891913267119-2605260639-13" eva="8089537">
+    <ar ct="2605260706" l="S1"/>
+    <dp ct="2605260707" l="S1"/>
+</s>
+
+
+<s id="736851939889401734-2605260634-13" eva="8089537">
+    <ar ct="2605260659" l="S1"/>
+    <dp ct="2605260700" l="S1"/>
+</s>
+
+
+<s id="1109066834260013947-2605260615-18" eva="8089537">
+    <ar ct="2605260656" l="S1"/>
+    <dp ct="2605260657" l="S1"/>
+</s>
+
+
+<s id="3775154465970893887-2605260624-13" eva="8089537">
+    <ar ct="2605260649" l="S1"/>
+    <dp ct="2605260650" l="S1"/>
+</s>
+
+
+<s id="1868149928068764884-2605260551-23" eva="8089537">
+    <ar ct="2605260646" l="S1"/>
+    <dp ct="2605260647" l="S1"/>
+</s>
+
+
+<s id="-1443046085995088361-2605260555-18" eva="8089537">
+    <ar ct="2605260636" l="S1"/>
+    <dp ct="2605260637" l="S1"/>
+</s>
+
+
+<s id="-5200604543078856360-2605260604-13" eva="8089537">
+    <ar ct="2605260629" l="S1"/>
+    <dp ct="2605260630" l="S1"/>
+</s>
+
+
+<s id="-6540946204237976193-2605260554-13" eva="8089537">
+    <ar ct="2605260619" l="S1"/>
+    <dp ct="2605260620" l="S1"/>
+</s>
+
+</timetable>

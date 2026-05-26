@@ -1,0 +1,81 @@
+resolution,dataset,station_id,start_date,end_date,latitude,longitude,height,name,state,distance
+hourly,precipitation,17483,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.535,13.375,36.0,Berlin-Mitte/Südpanke,Berlin,1.1837
+hourly,precipitation,00399,1995-09-01 00:00:00+00:00,2011-08-01 00:00:00+00:00,52.5198,13.4057,36.0,Berlin-Alexanderplatz,Berlin,2.5494
+hourly,temperature_air,00399,1969-12-01 00:00:00+00:00,2011-08-01 00:00:00+00:00,52.5198,13.4057,36.0,Berlin-Alexanderplatz,Berlin,2.5494
+hourly,wind,00399,1975-04-01 00:00:00+00:00,2015-06-30 00:00:00+00:00,52.5198,13.4057,36.0,Berlin-Alexanderplatz,Berlin,2.5494
+hourly,precipitation,17452,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.542,13.337,34.0,Berlin-Wedding,Berlin,2.8737
+hourly,precipitation,17475,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.553,13.384,41.0,Berlin-Gesundbrunnen,Berlin,3.2746
+hourly,precipitation,17487,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.497,13.398,36.0,Berlin-Kreuzberg,Berlin,3.6804
+hourly,precipitation,17473,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.51,13.427,35.0,Berlin-Friedrichshain/Spree,Berlin,4.2643
+hourly,precipitation,17449,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.494,13.328,35.0,Berlin-Wilmersdorf,Berlin,4.4251
+hourly,precipitation,17457,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.566,13.347,39.0,Berlin-Reinickendorf,Berlin,4.7956
+hourly,precipitation,17474,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.545,13.439,47.0,Berlin-Pankow-Prenzlauer Berg,Berlin,5.2309
+hourly,precipitation,17451,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.521,13.286,34.0,Berlin-Charlottenburg (Mollwitzstr.),Berlin,5.633
+hourly,temperature_air,00430,1986-01-01 00:00:00+00:00,2021-05-05 00:00:00+00:00,52.5644,13.3088,36.0,Berlin-Tegel,Berlin,5.9805
+hourly,wind,00430,1987-01-01 00:00:00+00:00,2021-05-05 00:00:00+00:00,52.5644,13.3088,36.0,Berlin-Tegel,Berlin,5.9805
+hourly,precipitation,00430,1995-09-01 00:00:00+00:00,2021-05-05 00:00:00+00:00,52.5644,13.3088,36.0,Berlin-Tegel,Berlin,5.9805
+hourly,precipitation,19897,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.504,13.455,37.0,Berlin-Friedrichshain-Nord,Berlin,6.2705
+hourly,precipitation,19898,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.497,13.282,39.0,Berlin-Halensee,Berlin,6.6602
+hourly,precipitation,17460,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.484,13.442,35.0,Berlin-Neukölln,Berlin,6.7229
+hourly,temperature_air,00433,1951-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.4676,13.402,48.0,Berlin-Tempelhof,Berlin,6.7623
+hourly,wind,00433,1974-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.4676,13.402,48.0,Berlin-Tempelhof,Berlin,6.7623
+hourly,precipitation,00433,1995-09-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.4676,13.402,48.0,Berlin-Tempelhof,Berlin,6.7623
+hourly,precipitation,17490,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.589,13.381,44.0,Berlin-Pankow-Rosenthal,Berlin,7.1626
+hourly,temperature_air,00424,1961-01-01 00:00:00+00:00,1981-01-01 00:00:00+00:00,52.5,13.4667,36.0,Berlin-Ostkreuz,Berlin,7.1722
+hourly,wind,00424,1975-01-01 00:00:00+00:00,1980-12-31 00:00:00+00:00,52.5,13.4667,36.0,Berlin-Ostkreuz,Berlin,7.1722
+hourly,precipitation,17484,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.58,13.308,37.0,Berlin-Borsigwalde,Berlin,7.3764
+hourly,precipitation,17489,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.578,13.436,46.0,Berlin-Heinersdorf,Berlin,7.4332
+hourly,precipitation,17470,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.498,13.488,36.0,Berlin-Rummelsburg,Berlin,8.5946
+hourly,precipitation,17478,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.545,13.493,56.0,Berlin-Hohenschönhausen,Berlin,8.6769
+hourly,precipitation,17450,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.48,13.261,41.0,Berlin-Grunewald,Berlin,8.8587
+hourly,precipitation,17461,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.469,13.466,34.0,Berlin-Köllnische Heide,Berlin,9.0495
+hourly,precipitation,00403,2002-01-28 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.4537,13.3017,51.0,Berlin-Dahlem (FU),Berlin,9.1444
+hourly,temperature_air,00403,2002-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.4537,13.3017,51.0,Berlin-Dahlem (FU),Berlin,9.1444
+hourly,precipitation,17477,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.567,13.491,51.0,Berlin-Lichtenberg-Malchow,Berlin,9.4799
+hourly,precipitation,17453,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.539,13.23,34.0,Berlin-Haselhorst,Berlin,9.5302
+hourly,precipitation,17485,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.44,13.327,40.0,Berlin-Lichterfelde,Berlin,9.8702
+hourly,precipitation,17462,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.452,13.458,34.0,Berlin-Britz,Berlin,10.1096
+hourly,precipitation,17488,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.611,13.316,36.0,Berlin-Waidmannslust,Berlin,10.2116
+hourly,precipitation,17491,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.617,13.384,53.0,Berlin-Blankenfelde,Berlin,10.28
+hourly,precipitation,17479,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.612,13.453,49.0,Berlin-Karow,Berlin,11.2168
+hourly,precipitation,17486,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.52,13.202,33.0,Berlin-Wilhelmstadt,Berlin,11.3123
+hourly,precipitation,17476,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.545,13.537,50.0,Berlin-Marzahn-Bürknersfelde,Berlin,11.5786
+hourly,precipitation,17472,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.463,13.512,34.0,Berlin-Oberschöneweide,Berlin,11.885
+hourly,precipitation,17454,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.557,13.199,33.0,Berlin-Hakenfelde,Berlin,12.0348
+hourly,precipitation,17482,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.504,13.547,36.0,Berlin/Biesdorfer Baggersee,Berlin,12.2693
+hourly,precipitation,17459,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.602,13.237,34.0,Berlin-Heiligensee,Berlin,12.3659
+hourly,precipitation,17481,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.413,13.376,43.0,Berlin-Marienfelde (Grillostr.),Berlin,12.4629
+hourly,precipitation,17471,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.502,13.554,37.0,Berlin-Biesdorf,Berlin,12.7776
+hourly,precipitation,17464,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.442,13.504,35.0,Berlin-Johannisthal (Winckelmannstr.),Berlin,12.9903
+hourly,precipitation,00420,2007-08-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.5447,13.5598,61.0,Berlin-Marzahn,Berlin,13.0898
+hourly,temperature_air,00420,2007-08-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.5447,13.5598,61.0,Berlin-Marzahn,Berlin,13.0898
+hourly,precipitation,17444,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.432,13.245,40.0,Berlin-Zehlendorf-Düppel,Berlin,13.3215
+hourly,precipitation,17455,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.489,13.181,31.0,Berlin-Gatow,Berlin,13.3387
+hourly,precipitation,17458,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.629,13.266,39.0,Berlin-Frohnau (Bifröstweg),Berlin,13.4972
+hourly,precipitation,17463,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.428,13.491,36.0,Berlin-Rudow (Stubenrauchstr.),Berlin,13.5871
+hourly,precipitation,00053,2005-10-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.585,13.5634,60.0,Ahrensfelde,Brandenburg,14.7391
+hourly,precipitation,17445,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.408,13.266,37.0,Berlin-Schönow,Berlin,14.7628
+hourly,precipitation,00400,2004-06-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.631,13.5021,60.0,Berlin-Buch,Berlin,14.8261
+hourly,wind,00400,1991-01-01 00:00:00+00:00,2000-10-25 00:00:00+00:00,52.631,13.5021,60.0,Berlin-Buch,Berlin,14.8261
+hourly,temperature_air,00400,1991-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.631,13.5021,60.0,Berlin-Buch,Berlin,14.8261
+hourly,precipitation,17448,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.389,13.402,43.0,Berlin-Lichtenrade (Lockestr.),Berlin,15.2869
+hourly,precipitation,17456,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.532,13.141,33.0,Berlin-Staaken,Berlin,15.4432
+hourly,precipitation,04637,2008-08-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.5404,13.1243,33.0,Staaken,Brandenburg,16.64
+hourly,precipitation,17467,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.444,13.583,36.0,Berlin-Köpenick/Spree,Berlin,17.062
+hourly,precipitation,17447,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.421,13.165,35.0,Berlin-Colonie Alsen,Berlin,18.0182
+hourly,precipitation,17465,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.416,13.577,35.0,Berlin-Grünau,Berlin,18.5851
+hourly,precipitation,17468,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.45,13.62,36.0,Berlin-Friedrichshagen-Hirschgarten,Berlin,18.9312
+hourly,wind,00427,1973-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.3807,13.5306,46.0,Berlin Brandenburg,Brandenburg,19.4261
+hourly,temperature_air,00427,1973-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.3807,13.5306,46.0,Berlin Brandenburg,Brandenburg,19.4261
+hourly,precipitation,00427,1995-09-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.3807,13.5306,46.0,Berlin Brandenburg,Brandenburg,19.4261
+hourly,precipitation,03205,2005-08-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.6579,13.179,33.0,Oberkrämer-Marwitz (Wasserwerk),Brandenburg,19.5732
+hourly,precipitation,17446,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.404,13.14,33.0,Berlin-Hubertusbrücke,Berlin,20.5354
+hourly,precipitation,17469,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.414,13.671,35.0,Berlin-Köpenick-Müggelheim,Berlin,23.8919
+hourly,precipitation,17466,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.377,13.642,35.0,Berlin-Schmöckwitz/Dahme,Berlin,24.7606
+hourly,precipitation,17480,2024-01-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.429,13.718,37.0,Berlin-Hessenwinkel,Berlin,25.9352
+hourly,wind,03988,1893-01-01 00:00:00+00:00,2002-08-31 00:00:00+00:00,52.3822,13.0622,81.0,Potsdam (Säkularstation),Brandenburg,26.1598
+hourly,precipitation,03987,1995-09-01 00:00:00+00:00,2026-05-26 00:00:00+00:00,52.3812,13.0622,81.0,Potsdam,Brandenburg,26.2276
+hourly,wind,03987,1893-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.3812,13.0622,81.0,Potsdam,Brandenburg,26.2276
+hourly,temperature_air,03987,1893-01-01 00:00:00+00:00,2026-05-25 00:00:00+00:00,52.3812,13.0622,81.0,Potsdam,Brandenburg,26.2276
+hourly,precipitation,00410,2004-05-01 00:00:00+00:00,2020-06-16 00:00:00+00:00,52.404,13.7309,33.0,Berlin-Kaniswall,Berlin,27.9664
+hourly,temperature_air,00410,2004-05-01 00:00:00+00:00,2020-06-15 00:00:00+00:00,52.404,13.7309,33.0,Berlin-Kaniswall,Berlin,27.9664

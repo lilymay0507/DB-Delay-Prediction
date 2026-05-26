@@ -1,0 +1,2025 @@
+<timetable station="Berlin-Halensee" eva="8089109">
+
+<s id="915489775732246419-2605261538-6" eva="8089109">
+    <ar ct="2605261548" dc="1" l="S42">
+        <m id="r57812985" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812986" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812987" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812988" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+    </ar>
+    <dp ct="2605261549" l="S42">
+        <m id="r57812985" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812986" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812987" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+        <m id="r57812988" t="f" c="0" ts="2605261519" ts-tts="26-05-26 15:20:09.580"/>
+    </dp>
+</s>
+
+
+<s id="5080933761369588079-2605261603-23" eva="8089109">
+    <ar ct="2605261651" l="S41"/>
+    <dp ct="2605261652" l="S41"/>
+</s>
+
+
+<s id="1850764793781254696-2605261603-6" eva="8089109">
+    <ar ct="2605261613" l="S42"/>
+    <dp ct="2605261614" l="S42"/>
+</s>
+
+
+<s id="9129007697119134005-2605261458-23" eva="8089109">
+    <ar ct="2605261547" l="S41"/>
+    <dp ct="2605261547" l="S41"/>
+</s>
+
+
+<s id="8801130229361447939-2605261533-6" eva="8089109">
+    <ar ct="2605261546" dc="1" l="S42">
+        <m id="r57813483" t="f" c="0" ts="2605261522" ts-tts="26-05-26 15:22:49.205"/>
+    </ar>
+    <dp ct="2605261547" l="S42">
+        <m id="r57813483" t="f" c="0" ts="2605261522" ts-tts="26-05-26 15:22:49.205"/>
+    </dp>
+</s>
+
+
+<s id="3829161764756495355-2605261601-20" eva="8089109">
+    <ar ct="2605261654" l="S46"/>
+    <dp ct="2605261654" l="S46"/>
+</s>
+
+
+<s id="823604723300754012-2605261536-4" eva="8089109">
+    <ar ct="2605261544" l="S46"/>
+    <dp ct="2605261544" l="S46"/>
+</s>
+
+
+<s id="5388809953883174946-2605261558-6" eva="8089109">
+    <ar ct="2605261608" l="S42"/>
+    <dp ct="2605261609" l="S42"/>
+</s>
+
+
+<s id="4566155920202278958-2605261558-23" eva="8089109">
+    <ar ct="2605261646" l="S41"/>
+    <dp ct="2605261647" l="S41"/>
+</s>
+
+
+<s id="-7675560947449891918-2605261453-23" eva="8089109">
+    <ar ct="2605261542" l="S41"/>
+    <dp ct="2605261543" l="S41"/>
+</s>
+
+
+<s id="7893448906361329784-2605261528-6" eva="8089109">
+    <ar ct="2605261540" dc="1" l="S42"/>
+    <dp ct="2605261541" l="S42"/>
+</s>
+
+
+<s id="1439180894237965556-2605261556-4" eva="8089109">
+    <ar ct="2605261601" l="S46"/>
+    <dp ct="2605261601" l="S46"/>
+</s>
+
+
+<s id="-5218368842060865766-2605261553-23" eva="8089109">
+    <ar ct="2605261641" l="S41"/>
+    <dp ct="2605261642" l="S41"/>
+</s>
+
+
+<s id="1946194515035253673-2605261553-6" eva="8089109">
+    <ar ct="2605261603" l="S42"/>
+    <dp ct="2605261604" l="S42"/>
+</s>
+
+
+<s id="3747787058712091208-2605261448-23" eva="8089109">
+    <ar ct="2605261537" l="S41"/>
+    <dp ct="2605261537" l="S41"/>
+</s>
+
+
+<s id="-2691944469869383573-2605261523-6" eva="8089109">
+    <ar ct="2605261535" dc="1" l="S42">
+        <m id="r57809733" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809734" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809735" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809736" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+    </ar>
+    <dp ct="2605261535" l="S42">
+        <m id="r57809733" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809734" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809735" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+        <m id="r57809736" t="f" c="0" ts="2605261505" ts-tts="26-05-26 15:05:36.272"/>
+    </dp>
+</s>
+
+
+<s id="-6060280125174309494-2605261441-20" eva="8089109">
+    <ar ct="2605261534" l="S46"/>
+    <dp ct="2605261535" l="S46"/>
+</s>
+
+
+<s id="6033886157763557438-2605261548-23" eva="8089109">
+    <ar ct="2605261636" l="S41"/>
+    <dp ct="2605261637" l="S41"/>
+</s>
+
+
+<s id="7069734855924270472-2605261548-6" eva="8089109">
+    <ar ct="2605261558" l="S42"/>
+    <dp ct="2605261559" l="S42"/>
+</s>
+
+
+<s id="7438124765296833401-2605261543-6" eva="8089109">
+    <ar ct="2605261553" dc="1" l="S42">
+        <m id="r57814593" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814594" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814595" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814596" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+    </ar>
+    <dp ct="2605261554" l="S42">
+        <m id="r57814593" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814594" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814595" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+        <m id="r57814596" t="f" c="0" ts="2605261532" ts-tts="26-05-26 15:32:51.613"/>
+    </dp>
+</s>
+
+
+<s id="-1093971613945248882-2605261443-23" eva="8089109">
+    <ar ct="2605261531" l="S41"/>
+    <dp ct="2605261532" l="S41"/>
+</s>
+
+
+<s id="1458875027556457920-2605261543-23" eva="8089109">
+    <ar ct="2605261631" l="S41"/>
+    <dp ct="2605261632" l="S41"/>
+</s>
+
+
+<s id="8665922920026703225-2605261438-23" eva="8089109">
+    <ar ct="2605261526" l="S41"/>
+    <dp ct="2605261527" l="S41"/>
+</s>
+
+
+<s id="-2865354267006537430-2605261513-6" eva="8089109">
+    <ar ct="2605261524" dc="1" l="S42">
+        <m id="r57809246" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809247" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809248" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809249" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+    </ar>
+    <dp ct="2605261525" l="S42">
+        <m id="r57809246" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809247" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809248" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+        <m id="r57809249" t="f" c="0" ts="2605261503" ts-tts="26-05-26 15:04:01.190"/>
+    </dp>
+</s>
+
+
+<s id="-4224421195360848494-2605261538-23" eva="8089109">
+    <ar ct="2605261626" l="S41"/>
+    <dp ct="2605261627" l="S41"/>
+</s>
+
+
+<s id="-4771829763164706267-2605261433-23" eva="8089109">
+    <ar ct="2605261521" l="S41"/>
+    <dp ct="2605261522" l="S41"/>
+</s>
+
+
+<s id="5607666004607282394-2605261516-4" eva="8089109">
+    <ar ct="2605261521" l="S46"/>
+    <dp ct="2605261522" l="S46"/>
+</s>
+
+
+<s id="2645643133925420352-2605261643-6" eva="8089109">
+    <ar dc="1" l="S42"/>
+</s>
+
+
+<s id="3744619874221306462-2605261443-6" eva="8089109">
+    <ar cpth="" ct="2605261453" cs="c" clt="2605261437" dc="1" l="S42"/>
+    <dp cpth="" ct="2605261454" cs="c" clt="2605261437" l="S42"/>
+</s>
+
+
+<s id="3847810924989712657-2605261508-6" eva="8089109">
+    <ar ct="2605261518" l="S42"/>
+    <dp ct="2605261519" l="S42"/>
+</s>
+
+
+<s id="-3896765883897817322-2605261533-23" eva="8089109">
+    <ar ct="2605261621" l="S41"/>
+    <dp ct="2605261622" l="S41"/>
+</s>
+
+
+<s id="-1922802170105418819-2605261428-23" eva="8089109">
+    <ar ct="2605261517" l="S41"/>
+    <dp ct="2605261517" l="S41"/>
+</s>
+
+
+<s id="-5430480272715375598-2605261421-20" eva="8089109">
+    <ar ct="2605261514" l="S46"/>
+    <dp ct="2605261515" l="S46"/>
+</s>
+
+
+<s id="1657911307453195329-2605261503-6" eva="8089109">
+    <ar ct="2605261514" l="S42"/>
+    <dp ct="2605261514" l="S42"/>
+</s>
+
+
+<s id="-8890840986165175858-2605261528-23" eva="8089109">
+    <ar ct="2605261616" l="S41"/>
+    <dp ct="2605261617" l="S41"/>
+</s>
+
+
+<s id="7506856953739380250-2605261423-23" eva="8089109">
+    <ar ct="2605261511" l="S41"/>
+    <dp ct="2605261512" l="S41"/>
+</s>
+
+
+<s id="-5673823876812756833-2605261458-6" eva="8089109">
+    <ar ct="2605261509" l="S42"/>
+    <dp ct="2605261510" l="S42"/>
+</s>
+
+
+<s id="6315881562382231720-2605261418-23" eva="8089109">
+    <ar ct="2605261507" l="S41"/>
+    <dp ct="2605261508" l="S41"/>
+</s>
+
+
+<s id="-7574798564144140788-2605261523-23" eva="8089109">
+    <ar ct="2605261611" l="S41"/>
+    <dp ct="2605261612" l="S41"/>
+</s>
+
+
+<s id="-1593749628335191992-2605261456-4" eva="8089109">
+    <ar ct="2605261507" l="S46"/>
+    <dp ct="2605261508" l="S46"/>
+</s>
+
+
+<s id="-5163468087667678273-2605261623-6" eva="8089109">
+    <ar ct="2605261633" dc="1" l="S42"/>
+    <dp ct="2605261634" l="S42"/>
+</s>
+
+
+<s id="-2062604970987099247-2605261521-20" eva="8089109">
+    <ar ct="2605261614" l="S46"/>
+    <dp ct="2605261614" l="S46"/>
+</s>
+
+
+<s id="1587644229683709502-2605261453-6" eva="8089109">
+    <ar ct="2605261504" l="S42"/>
+    <dp ct="2605261505" l="S42"/>
+</s>
+
+
+<s id="-8278355018322708496-2605261413-23" eva="8089109">
+    <ar ct="2605261502" l="S41"/>
+    <dp ct="2605261503" l="S41"/>
+</s>
+
+
+<s id="-1700676340736539869-2605261541-20" eva="8089109">
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261634" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261634" l="S46"/>
+</s>
+
+
+<s id="-3335419999629832573-2605261518-23" eva="8089109">
+    <ar ct="2605261606" l="S41"/>
+    <dp ct="2605261607" l="S41"/>
+</s>
+
+
+<s id="6112865541765138542-2605261448-6" eva="8089109">
+    <ar ct="2605261502" l="S42"/>
+    <dp ct="2605261502" l="S42"/>
+</s>
+
+
+<s id="2486776204227522579-2605261436-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261451" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau" ct="2605261452" l="S46"/>
+</s>
+
+
+<s id="-3614726284157326895-2605261513-23" eva="8089109">
+    <ar ct="2605261601" l="S41"/>
+    <dp ct="2605261602" l="S41"/>
+</s>
+
+
+<s id="860988198406697223-2605261628-6" eva="8089109">
+    <ar dc="1" l="S42"/>
+</s>
+
+
+<s id="-2895826098464063538-2605261228-6" eva="8089109">
+    <ar ct="2605261238" l="S42"/>
+    <dp ct="2605261239" dc="1" l="S42"/>
+</s>
+
+
+<s id="-3159030123589773645-2605261328-6" eva="8089109">
+    <ar ct="2605261338" l="S42"/>
+    <dp ct="2605261339" cde="Berlin Treptower Park" dc="1" l="S42"/>
+</s>
+
+
+<s id="5237820512542372884-2605261428-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261445" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2605261446" l="S42"/>
+</s>
+
+
+<s id="1077516802824487580-2605261408-23" eva="8089109">
+    <ar ct="2605261457" l="S41"/>
+    <dp ct="2605261457" l="S41"/>
+</s>
+
+
+<s id="7502954050898821437-2605261718-6" eva="8089109">
+    <ar dc="1" l="S42"/>
+</s>
+
+
+<s id="-1468626022716520592-2605261618-6" eva="8089109">
+    <ar cde="Berlin Treptower Park" dc="1" l="S42"/>
+</s>
+
+
+<s id="-5823924435857972881-2605261318-6" eva="8089109">
+    <ar ct="2605261329" l="S42"/>
+    <dp ct="2605261329" dc="1" l="S42"/>
+</s>
+
+
+<s id="-8092723936177548765-2605261418-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261428" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2605261441" dc="1" l="S42"/>
+</s>
+
+
+<s id="8246453221002403507-2605261518-6" eva="8089109">
+    <ar cpth="" cs="c" clt="2605261456" dc="1" l="S42"/>
+    <dp cpth="Berlin Treptower Park|Berlin Ostkreuz (S)|Berlin Frankfurter Allee|Berlin Storkower Str|Berlin Landsberger Allee|Berlin Greifswalder Str|Berlin Prenzlauer Allee|Berlin Schönhauser Allee|Berlin Gesundbrunnen(S)|Berlin-Wedding|Berlin Westhafen|Berlin Beusselstraße" cs="c" clt="2605261456" l="S42"/>
+</s>
+
+
+<s id="7525995773641466335-2605261713-6" eva="8089109">
+    <ar ct="2605261723" l="S42"/>
+    <dp ct="2605261724" l="S42"/>
+</s>
+
+
+<s id="-6881132547221969494-2605261613-6" eva="8089109">
+    <ar ct="2605261623" dc="1" l="S42"/>
+    <dp ct="2605261624" l="S42"/>
+</s>
+
+
+<s id="-3270890575909861921-2605261638-6" eva="8089109">
+    <ar dc="1" l="S42"/>
+</s>
+
+
+<s id="-1720900993681163785-2605261238-6" eva="8089109">
+    <ar ct="2605261248" l="S42"/>
+    <dp ct="2605261249" dc="1" l="S42"/>
+</s>
+
+
+<s id="9130676215672728187-2605261338-6" eva="8089109">
+    <ar ct="2605261349" l="S42"/>
+    <dp ct="2605261350" cde="Berlin Treptower Park" dc="1" l="S42"/>
+</s>
+
+
+<s id="2841278421178742989-2605261438-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261454" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2605261454" l="S42"/>
+</s>
+
+
+<s id="8814852253708732052-2605261401-20" eva="8089109">
+    <ar ct="2605261454" l="S46"/>
+    <dp ct="2605261455" l="S46"/>
+</s>
+
+
+<s id="-640554582970682000-2605261508-23" eva="8089109">
+    <ar ct="2605261556" l="S41"/>
+    <dp ct="2605261557" l="S41"/>
+</s>
+
+
+<s id="4701659602580441425-2605261403-23" eva="8089109">
+    <ar ct="2605261451" l="S41"/>
+    <dp ct="2605261452" l="S41"/>
+</s>
+
+
+<s id="7779777142953412043-2605261423-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261443" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Sonnenallee|Berlin Treptower Park" ct="2605261444" l="S42"/>
+</s>
+
+
+<s id="4860914228797676152-2605261218-6" eva="8089109">
+    <ar ct="2605261228" l="S42"/>
+    <dp ct="2605261229" dc="1" l="S42"/>
+</s>
+
+
+<s id="-5635147452043393363-2605261633-6" eva="8089109">
+    <ar dc="1" l="S42"/>
+</s>
+
+
+<s id="895330319088455769-2605261233-6" eva="8089109">
+    <ar ct="2605261243" l="S42"/>
+    <dp ct="2605261244" dc="1" l="S42"/>
+</s>
+
+
+<s id="5548637658516435263-2605261333-6" eva="8089109">
+    <ar ct="2605261344" l="S42"/>
+    <dp ct="2605261344" cde="Berlin-Schöneweide (S)" dc="1" l="S42"/>
+</s>
+
+
+<s id="-5922757085214240081-2605261433-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261448" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)" ct="2605261449" l="S42"/>
+</s>
+
+
+<s id="-7891420960927754941-2605261358-23" eva="8089109">
+    <ar ct="2605261448" l="S41"/>
+    <dp ct="2605261449" l="S41"/>
+</s>
+
+
+<s id="-5171745938987063840-2605261503-23" eva="8089109">
+    <ar ct="2605261551" l="S41"/>
+    <dp ct="2605261552" l="S41"/>
+</s>
+
+
+<s id="2804607086031258063-2605261501-20" eva="8089109">
+    <ar ct="2605261554" l="S46"/>
+    <dp ct="2605261554" l="S46"/>
+</s>
+
+
+<s id="-7273078082454991151-2605261353-23" eva="8089109">
+    <ar ct="2605261444" l="S41"/>
+    <dp ct="2605261445" l="S41"/>
+</s>
+
+
+<s id="8822339320363755158-2605261348-23" eva="8089109">
+    <ar ct="2605261438" l="S41"/>
+    <dp ct="2605261439" l="S41"/>
+</s>
+
+
+<s id="2062805381225481990-2605261341-20" eva="8089109">
+    <ar ct="2605261436" l="S46"/>
+    <dp ct="2605261436" l="S46"/>
+</s>
+
+
+<s id="7271114850422379294-2605261213-6" eva="8089109">
+    <ar ct="2605261224" l="S42"/>
+    <dp ct="2605261224" dc="1" l="S42"/>
+</s>
+
+
+<s id="2984154091469488919-2605261313-6" eva="8089109">
+    <ar ct="2605261325" l="S42"/>
+    <dp ct="2605261326" cde="Berlin Hohenzollerndamm" dc="1" l="S42"/>
+</s>
+
+
+<s id="8733508633648754851-2605261413-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261424" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm" ct="2605261425" l="S42"/>
+</s>
+
+
+<s id="-5789558711774610642-2605261343-23" eva="8089109">
+    <ar ct="2605261433" l="S41"/>
+    <dp ct="2605261434" l="S41"/>
+</s>
+
+
+<s id="6161033674559587323-2605261338-23" eva="8089109">
+    <ar ct="2605261428" l="S41"/>
+    <dp ct="2605261429" l="S41"/>
+</s>
+
+
+<s id="-6236794398520287983-2605261333-23" eva="8089109">
+    <ar ct="2605261423" l="S41"/>
+    <dp ct="2605261423" l="S41"/>
+</s>
+
+
+<s id="-7475383962454583885-2605261416-4" eva="8089109">
+    <ar ct="2605261422" l="S46"/>
+    <dp ct="2605261423" l="S46"/>
+</s>
+
+
+<s id="3229055485746316100-2605261408-6" eva="8089109">
+    <ar ct="2605261419" l="S42"/>
+    <dp ct="2605261420" l="S42"/>
+</s>
+
+
+<s id="4284279576656683442-2605261328-23" eva="8089109">
+    <ar ct="2605261416" l="S41"/>
+    <dp ct="2605261417" l="S41"/>
+</s>
+
+
+<s id="-4206069100090636820-2605261321-20" eva="8089109">
+    <ar ct="2605261414" l="S46"/>
+    <dp ct="2605261415" l="S46"/>
+</s>
+
+
+<s id="-396525327927466310-2605261403-6" eva="8089109">
+    <ar ct="2605261414" l="S42"/>
+    <dp ct="2605261414" l="S42"/>
+</s>
+
+
+<s id="-3059387049798295218-2605261400-7" eva="8089109">
+    <ar ct="2605261411" l="S41"/>
+    <dp ct="2605261412" l="S41"/>
+</s>
+
+
+<s id="8122123837948517104-2605261358-6" eva="8089109">
+    <ar ct="2605261409" l="S42"/>
+    <dp ct="2605261410" l="S42"/>
+</s>
+
+
+<s id="5272364581160869514-2605261318-23" eva="8089109">
+    <ar ct="2605261406" l="S41"/>
+    <dp ct="2605261407" l="S41"/>
+</s>
+
+
+<s id="-8779951230096627311-2605261353-6" eva="8089109">
+    <ar ct="2605261404" l="S42"/>
+    <dp ct="2605261405" l="S42"/>
+</s>
+
+
+<s id="7809989061840363622-2605261356-4" eva="8089109">
+    <ar ct="2605261402" l="S46"/>
+    <dp ct="2605261402" l="S46"/>
+</s>
+
+
+<s id="-2395578897901573417-2605261313-23" eva="8089109">
+    <ar ct="2605261401" l="S41"/>
+    <dp ct="2605261402" l="S41"/>
+</s>
+
+
+<s id="-3312176026804194316-2605261348-6" eva="8089109">
+    <ar ct="2605261400" l="S42"/>
+    <dp ct="2605261400" l="S42"/>
+</s>
+
+
+<s id="8683156963302349940-2605261308-23" eva="8089109">
+    <ar ct="2605261358" l="S41"/>
+    <dp ct="2605261358" l="S41"/>
+</s>
+
+
+<s id="-4474581227627402473-2605261301-20" eva="8089109">
+    <ar ct="2605261355" l="S46"/>
+    <dp ct="2605261356" l="S46"/>
+</s>
+
+
+<s id="4779777575731915929-2605261340-7" eva="8089109">
+    <ar ct="2605261353" l="S41"/>
+    <dp ct="2605261354" l="S41"/>
+</s>
+
+
+<s id="2036791315146332181-2605261258-23" eva="8089109">
+    <ar ct="2605261346" l="S41"/>
+    <dp ct="2605261347" l="S41"/>
+</s>
+
+
+<s id="-3805824367521883224-2605261253-23" eva="8089109">
+    <ar ct="2605261342" l="S41"/>
+    <dp ct="2605261343" l="S41"/>
+</s>
+
+
+<s id="2597239673676875109-2605261336-4" eva="8089109">
+    <ar ct="2605261342" l="S46"/>
+    <dp ct="2605261342" l="S46"/>
+</s>
+
+
+<s id="2463904654381575746-2605261248-23" eva="8089109">
+    <ar ct="2605261336" l="S41"/>
+    <dp ct="2605261337" l="S41"/>
+</s>
+
+
+<s id="-7032752883441884847-2605261241-20" eva="8089109">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261334" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261335" l="S46"/>
+</s>
+
+
+<s id="-1803750726826399355-2605261320-7" eva="8089109">
+    <ar ct="2605261332" l="S41"/>
+    <dp ct="2605261332" l="S41"/>
+</s>
+
+
+<s id="9077597139972168626-2605261238-23" eva="8089109">
+    <ar ct="2605261327" l="S41"/>
+    <dp ct="2605261327" l="S41"/>
+</s>
+
+
+<s id="-8339743832550419349-2605261316-4" eva="8089109">
+    <ar ct="2605261323" l="S46"/>
+    <dp ct="2605261323" l="S46"/>
+</s>
+
+
+<s id="-3619681672281402569-2605261233-23" eva="8089109">
+    <ar ct="2605261321" l="S41"/>
+    <dp ct="2605261322" l="S41"/>
+</s>
+
+
+<s id="6589685342604772047-2605261308-6" eva="8089109">
+    <ar ct="2605261318" l="S42"/>
+    <dp ct="2605261320" l="S42"/>
+</s>
+
+
+<s id="-8551443584374781516-2605261228-23" eva="8089109">
+    <ar ct="2605261318" l="S41"/>
+    <dp ct="2605261318" l="S41"/>
+</s>
+
+
+<s id="-2164005168601296386-2605261221-20" eva="8089109">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261314" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261314" l="S46"/>
+</s>
+
+
+<s id="1974178392664028829-2605261258-6" eva="8089109">
+    <ar ct="2605261308" l="S42"/>
+    <dp ct="2605261309" l="S42"/>
+</s>
+
+
+<s id="5493611202689760529-2605261218-23" eva="8089109">
+    <ar ct="2605261308" dc="1" l="S41"/>
+    <dp ct="2605261309" l="S41"/>
+</s>
+
+
+<s id="5531624195021303759-2605261253-6" eva="8089109">
+    <ar ct="2605261304" l="S42"/>
+    <dp ct="2605261305" l="S42"/>
+</s>
+
+
+<s id="-7322641168589316969-2605261256-4" eva="8089109">
+    <ar ct="2605261302" l="S46"/>
+    <dp ct="2605261303" l="S46"/>
+</s>
+
+
+<s id="-7677957203465953433-2605261213-23" eva="8089109">
+    <ar ct="2605261302" l="S41"/>
+    <dp ct="2605261302" l="S41"/>
+</s>
+
+
+<s id="-1817202928434414863-2605261248-6" eva="8089109">
+    <ar ct="2605261259" l="S42"/>
+    <dp ct="2605261259" l="S42"/>
+</s>
+
+
+<s id="3085297732873600569-2605261208-23" eva="8089109">
+    <ar ct="2605261257" l="S41"/>
+    <dp ct="2605261258" l="S41"/>
+</s>
+
+
+<s id="-6785924364462176401-2605261201-20" eva="8089109">
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261254" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261255" l="S46"/>
+</s>
+
+
+<s id="8053839109065869908-2605261158-23" eva="8089109">
+    <ar ct="2605261249" l="S41"/>
+    <dp ct="2605261250" l="S41"/>
+</s>
+
+
+<s id="16439837419635188-2605261153-23" eva="8089109">
+    <ar ct="2605261241" dc="1" l="S41"/>
+    <dp ct="2605261242" l="S41"/>
+</s>
+
+
+<s id="3696614158348580612-2605261236-4" eva="8089109">
+    <ar ct="2605261241" l="S46"/>
+    <dp ct="2605261242" l="S46"/>
+</s>
+
+
+<s id="-8192139324405602477-2605261148-23" eva="8089109">
+    <ar ct="2605261236" l="S41"/>
+    <dp ct="2605261237" l="S41"/>
+</s>
+
+
+<s id="4154446247441422917-2605261141-20" eva="8089109">
+    <ar cpth="Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261234" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261234" l="S46"/>
+</s>
+
+
+<s id="-2243113100543863371-2605261138-23" eva="8089109">
+    <ar ct="2605261226" l="S41"/>
+    <dp ct="2605261227" l="S41"/>
+</s>
+
+
+<s id="926787398125017481-2605261133-23" eva="8089109">
+    <ar ct="2605261221" l="S41"/>
+    <dp ct="2605261222" l="S41"/>
+</s>
+
+
+<s id="307297841266272814-2605261216-4" eva="8089109">
+    <ar ct="2605261222" l="S46"/>
+    <dp ct="2605261222" l="S46"/>
+</s>
+
+
+<s id="1050370327007109343-2605261208-6" eva="8089109">
+    <ar ct="2605261218" l="S42"/>
+    <dp ct="2605261219" l="S42"/>
+</s>
+
+
+<s id="-1650020202431664756-2605261128-23" eva="8089109">
+    <ar ct="2605261217" l="S41"/>
+    <dp ct="2605261217" l="S41"/>
+</s>
+
+
+<s id="2940518632189457885-2605261121-20" eva="8089109">
+    <ar ct="2605261214" l="S46"/>
+    <dp ct="2605261215" l="S46"/>
+</s>
+
+
+<s id="343677701455122380-2605261158-6" eva="8089109">
+    <ar ct="2605261208" l="S42"/>
+    <dp ct="2605261209" l="S42"/>
+</s>
+
+
+<s id="3316196534932478495-2605261118-23" eva="8089109">
+    <ar ct="2605261206" cde="Berlin Südkreuz (S)" dc="1" l="S41"/>
+    <dp ct="2605261207" l="S41"/>
+</s>
+
+
+<s id="3849345755591750351-2605261153-6" eva="8089109">
+    <ar ct="2605261203" l="S42"/>
+    <dp ct="2605261204" l="S42"/>
+</s>
+
+
+<s id="-550967752426271128-2605261113-23" eva="8089109">
+    <ar ct="2605261201" dc="1" l="S41"/>
+    <dp ct="2605261202" l="S41"/>
+</s>
+
+
+<s id="-6881971447419261573-2605261156-4" eva="8089109">
+    <ar ct="2605261201" l="S46"/>
+    <dp ct="2605261202" l="S46"/>
+</s>
+
+
+<s id="4187099774503049118-2605261148-6" eva="8089109">
+    <ar ct="2605261159" l="S42"/>
+    <dp ct="2605261159" l="S42"/>
+</s>
+
+
+<s id="8692606127683523122-2605261108-23" eva="8089109">
+    <ar ct="2605261156" l="S41"/>
+    <dp ct="2605261157" l="S41"/>
+</s>
+
+
+<s id="8263754980513981064-2605261136-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261143" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2605261143" l="S46"/>
+</s>
+
+
+<s id="-1006337631067381777-2605261101-20" eva="8089109">
+    <ar ct="2605261154" l="S46"/>
+    <dp ct="2605261155" l="S46"/>
+</s>
+
+
+<s id="-8879419934362369035-2605261116-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261121" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2605261122" l="S46"/>
+</s>
+
+
+<s id="7881239512109411365-2605261138-6" eva="8089109">
+    <ar ct="2605261149" l="S42"/>
+    <dp ct="2605261149" l="S42"/>
+</s>
+
+
+<s id="1673787176617985099-2605261056-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261102" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau" ct="2605261103" l="S46"/>
+</s>
+
+
+<s id="560601926045832134-2605261133-6" eva="8089109">
+    <ar ct="2605261147" l="S42"/>
+    <dp ct="2605261147" l="S42"/>
+</s>
+
+
+<s id="3306822541086914907-2605261058-23" eva="8089109">
+    <ar ct="2605261146" l="S41"/>
+    <dp ct="2605261147" l="S41"/>
+</s>
+
+
+<s id="-754645722021945419-2605261053-23" eva="8089109">
+    <ar ct="2605261141" cde="Berlin Südkreuz (S)" dc="1" l="S41"/>
+    <dp ct="2605261142" l="S41"/>
+</s>
+
+
+<s id="-8222793819201001095-2605261128-6" eva="8089109">
+    <ar ct="2605261138" l="S42"/>
+    <dp ct="2605261139" l="S42"/>
+</s>
+
+
+<s id="6889826280459701291-2605261048-23" eva="8089109">
+    <ar ct="2605261136" l="S41"/>
+    <dp ct="2605261137" l="S41"/>
+</s>
+
+
+<s id="5817496419241698238-2605261041-20" eva="8089109">
+    <ar ct="2605261134" l="S46"/>
+    <dp ct="2605261135" l="S46"/>
+</s>
+
+
+<s id="2334084281565051514-2605261036-4" eva="8089109">
+    <ar cpth="Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605261041" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau" ct="2605261042" l="S46"/>
+</s>
+
+
+<s id="-5196830993051824139-2605261118-6" eva="8089109">
+    <ar ct="2605261128" l="S42"/>
+    <dp ct="2605261129" l="S42"/>
+</s>
+
+
+<s id="-1790332421146665029-2605261038-23" eva="8089109">
+    <ar ct="2605261127" l="S41"/>
+    <dp ct="2605261128" l="S41"/>
+</s>
+
+
+<s id="-2195145722643483148-2605261113-6" eva="8089109">
+    <ar ct="2605261123" l="S42"/>
+    <dp ct="2605261124" l="S42"/>
+</s>
+
+
+<s id="4768323470871052017-2605261033-23" eva="8089109">
+    <ar ct="2605261122" l="S41"/>
+    <dp ct="2605261123" l="S41"/>
+</s>
+
+
+<s id="-6633938139899615212-2605261028-23" eva="8089109">
+    <ar ct="2605261120" l="S41"/>
+    <dp ct="2605261120" l="S41"/>
+</s>
+
+
+<s id="-6374104091925868885-2605261108-6" eva="8089109">
+    <ar ct="2605261118" l="S42"/>
+    <dp ct="2605261119" l="S42"/>
+</s>
+
+
+<s id="-6112341857996034516-2605261021-20" eva="8089109">
+    <ar ct="2605261114" l="S46"/>
+    <dp ct="2605261115" l="S46"/>
+</s>
+
+
+<s id="6137287502367882296-2605261058-6" eva="8089109">
+    <ar ct="2605261108" l="S42"/>
+    <dp ct="2605261109" l="S42"/>
+</s>
+
+
+<s id="-6300326682289718318-2605261018-23" eva="8089109">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261107" cs="p" clt="2605261028" l="S41"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" ct="2605261108" cs="p" clt="2605261028" l="S41"/>
+</s>
+
+
+<s id="-3569709212774797835-2605261053-6" eva="8089109">
+    <ar ct="2605261104" l="S42"/>
+    <dp ct="2605261105" l="S42"/>
+</s>
+
+
+<s id="8425478567724610645-2605261013-23" eva="8089109">
+    <ar ct="2605261101" dc="1" l="S41"/>
+    <dp ct="2605261102" l="S41"/>
+</s>
+
+
+<s id="1868422363507140076-2605261048-6" eva="8089109">
+    <ar ct="2605261058" l="S42"/>
+    <dp ct="2605261059" l="S42"/>
+</s>
+
+
+<s id="-1588768702219331514-2605261008-23" eva="8089109">
+    <ar ct="2605261059" l="S41"/>
+    <dp ct="2605261059" l="S41"/>
+</s>
+
+
+<s id="4512856949740414772-2605261001-20" eva="8089109">
+    <ar ct="2605261056" l="S46"/>
+    <dp ct="2605261056" l="S46"/>
+</s>
+
+
+<s id="-3106454146193959631-2605261038-6" eva="8089109">
+    <ar ct="2605261048" dc="1" l="S42"/>
+    <dp ct="2605261049" l="S42"/>
+</s>
+
+
+<s id="-7898075018113325225-2605260958-23" eva="8089109">
+    <ar ct="2605261047" l="S41"/>
+    <dp ct="2605261047" l="S41"/>
+</s>
+
+
+<s id="-3092144844610362951-2605261033-6" eva="8089109">
+    <ar ct="2605261044" l="S42"/>
+    <dp ct="2605261045" l="S42"/>
+</s>
+
+
+<s id="6869586188060584513-2605260953-23" eva="8089109">
+    <ar cpth="Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261042" cs="p" clt="2605260958" l="S41"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend|Berlin Jungfernheide (S)|Berlin Beusselstraße" ct="2605261042" cs="p" clt="2605260958" l="S41"/>
+</s>
+
+
+<s id="4322557676435895163-2605260818-23" eva="8089109">
+    <ar ct="2605260908" l="S41"/>
+    <dp ct="2605260909" dc="1" l="S41"/>
+</s>
+
+
+<s id="4093757469891861303-2605260918-23" eva="8089109">
+    <ar ct="2605261015" l="S41"/>
+    <dp ct="2605261016" dc="1" l="S41"/>
+</s>
+
+
+<s id="-3607581714967044358-2605261028-6" eva="8089109">
+    <ar ct="2605261038" l="S42"/>
+    <dp ct="2605261039" l="S42"/>
+</s>
+
+
+<s id="5867978840487226987-2605260948-23" eva="8089109">
+    <ar ct="2605261037" l="S41"/>
+    <dp ct="2605261037" l="S41"/>
+</s>
+
+
+<s id="5329830437275051929-2605260941-20" eva="8089109">
+    <ar ct="2605261034" l="S46"/>
+    <dp ct="2605261035" l="S46"/>
+</s>
+
+
+<s id="-6423325192722780972-2605261023-6" eva="8089109">
+    <ar ct="2605261034" l="S42"/>
+    <dp ct="2605261035" l="S42"/>
+</s>
+
+
+<s id="3836026739890168878-2605260943-23" eva="8089109">
+    <ar ct="2605261031" l="S41"/>
+    <dp ct="2605261032" l="S41"/>
+</s>
+
+
+<s id="-6356226425564007700-2605261018-6" eva="8089109">
+    <ar ct="2605261028" l="S42"/>
+    <dp ct="2605261029" l="S42"/>
+</s>
+
+
+<s id="592969787362250928-2605260938-23" eva="8089109">
+    <ar ct="2605261027" l="S41"/>
+    <dp ct="2605261028" l="S41"/>
+</s>
+
+
+<s id="-6999363325648837318-2605261013-6" eva="8089109">
+    <ar ct="2605261024" l="S42"/>
+    <dp ct="2605261025" l="S42"/>
+</s>
+
+
+<s id="-3066199810930166796-2605260933-23" eva="8089109">
+    <ar ct="2605261024" l="S41"/>
+    <dp ct="2605261025" l="S41"/>
+</s>
+
+
+<s id="3892721336257727309-2605261016-4" eva="8089109">
+    <ar ct="2605261022" l="S46"/>
+    <dp ct="2605261023" l="S46"/>
+</s>
+
+
+<s id="-1301376445485440422-2605260928-23" eva="8089109">
+    <ar ct="2605261022" l="S41"/>
+    <dp ct="2605261022" l="S41"/>
+</s>
+
+
+<s id="7015051213231927625-2605260921-20" eva="8089109">
+    <ar ct="2605261020" l="S46"/>
+    <dp ct="2605261020" l="S46"/>
+</s>
+
+
+<s id="-588133005062669210-2605261008-6" eva="8089109">
+    <ar ct="2605261018" l="S42"/>
+    <dp ct="2605261019" l="S42"/>
+</s>
+
+
+<s id="2796080378098646019-2605260923-23" eva="8089109">
+    <ar ct="2605261017" l="S41"/>
+    <dp ct="2605261018" l="S41"/>
+</s>
+
+
+<s id="-7293529809193731807-2605261003-6" eva="8089109">
+    <ar ct="2605261013" l="S42"/>
+    <dp ct="2605261014" l="S42"/>
+</s>
+
+
+<s id="-8979721155244129125-2605260958-6" eva="8089109">
+    <ar ct="2605261008" l="S42"/>
+    <dp ct="2605261009" l="S42"/>
+</s>
+
+
+<s id="-2695440956305972535-2605260753-23" eva="8089109">
+    <ar ct="2605260841" l="S41"/>
+    <dp ct="2605260842" dc="1" l="S41"/>
+</s>
+
+
+<s id="-4501948789885285652-2605260853-23" eva="8089109">
+    <ar ct="2605260951" l="S41"/>
+    <dp ct="2605260950" dc="1" l="S41"/>
+</s>
+
+
+<s id="4965911790015696872-2605260953-6" eva="8089109">
+    <ar ct="2605261003" l="S42"/>
+    <dp ct="2605261006" l="S42"/>
+</s>
+
+
+<s id="-3422084149648064520-2605260901-20" eva="8089109">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605261000" cs="p" clt="2605260943" l="S46"/>
+    <dp cpth="Berlin Westkreuz|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westend" ct="2605261000" cs="p" clt="2605260943" l="S46"/>
+</s>
+
+
+<s id="5360343033178043446-2605260948-6" eva="8089109">
+    <ar ct="2605260958" l="S42"/>
+    <dp ct="2605260959" l="S42"/>
+</s>
+
+
+<s id="2678491364057526163-2605260908-23" eva="8089109">
+    <ar ct="2605260957" l="S41"/>
+    <dp ct="2605260956" l="S41"/>
+</s>
+
+
+<s id="-9146331568353513137-2605260903-23" eva="8089109">
+    <ar ct="2605260955" l="S41"/>
+    <dp ct="2605260954" l="S41"/>
+</s>
+
+
+<s id="1873008746690375294-2605260943-6" eva="8089109">
+    <ar ct="2605260954" l="S42"/>
+    <dp ct="2605260954" l="S42"/>
+</s>
+
+
+<s id="-3094080370564111444-2605260858-23" eva="8089109">
+    <ar ct="2605260953" l="S41"/>
+    <dp ct="2605260952" l="S41"/>
+</s>
+
+
+<s id="-2547344005021506872-2605260956-4" eva="8089109">
+    <ar cpth="" ct="2605261002" cs="c" clt="2605260952" l="S46"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau|Eichwalde|Zeuthen|Wildau|Königs Wusterhausen" ct="2605261003" cs="c" clt="2605260952" l="S46"/>
+</s>
+
+
+<s id="-8213520851967673218-2605260938-6" eva="8089109">
+    <ar ct="2605260949" dc="1" l="S42">
+        <m id="r57761781" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761782" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761783" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761784" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+    </ar>
+    <dp ct="2605260950" l="S42">
+        <m id="r57761781" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761782" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761783" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+        <m id="r57761784" t="f" c="0" ts="2605260811" ts-tts="26-05-26 08:11:19.821"/>
+    </dp>
+</s>
+
+
+<s id="5177369266472112603-2605260841-20" eva="8089109">
+    <ar cpth="Königs Wusterhausen|Wildau|Zeuthen|Eichwalde|Berlin-Grünau|Berlin-Adlershof|Berlin-Johannisthal|Berlin-Schöneweide (S)|Berlin Baumschulenweg|Berlin Köllnische Heide|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof|Berlin Südkreuz (S)|Berlin-Schöneberg|Berlin Innsbrucker Platz|Berlin Bundesplatz|Berlin Heidelberger Platz|Berlin Hohenzollerndamm" ct="2605260948" l="S46"/>
+    <dp cpth="Berlin Charlottenburg (S)" ct="2605260949" l="S46"/>
+</s>
+
+
+<s id="-5607445359259728331-2605260713-23" eva="8089109">
+    <ar ct="2605260802" l="S41"/>
+    <dp ct="2605260802" dc="1" l="S41"/>
+</s>
+
+
+<s id="-536544038543590270-2605260813-23" eva="8089109">
+    <ar ct="2605260901" l="S41"/>
+    <dp ct="2605260902" cde="Berlin-Tempelhof" dc="1" l="S41"/>
+</s>
+
+
+<s id="1068552135197251628-2605260913-23" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Westhafen|Berlin-Wedding|Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee|Berlin Greifswalder Str|Berlin Landsberger Allee|Berlin Storkower Str|Berlin Frankfurter Allee|Berlin Ostkreuz (S)|Berlin Treptower Park|Berlin Sonnenallee|Berlin-Neukölln|Berlin Hermannstraße|Berlin-Tempelhof" ct="2605261001" cs="c" clt="2605260945" l="S41"/>
+    <dp cpth="" ct="2605261002" cs="c" clt="2605260945" l="S41"/>
+</s>
+
+
+<s id="7274192366431737057-2605260933-6" eva="8089109">
+    <ar ct="2605260943" l="S42"/>
+    <dp ct="2605260944" l="S42"/>
+</s>
+
+
+<s id="-330452985828520485-2605260936-4" eva="8089109">
+    <ar ct="2605260941" l="S46"/>
+    <dp ct="2605260942" l="S46"/>
+</s>
+
+
+<s id="-2541958349142976440-2605260928-6" eva="8089109">
+    <ar ct="2605260938" l="S42"/>
+    <dp ct="2605260939" l="S42"/>
+</s>
+
+
+<s id="38984504169811555-2605260848-23" eva="8089109">
+    <ar ct="2605260936" l="S41"/>
+    <dp ct="2605260937" l="S41"/>
+</s>
+
+
+<s id="-7359586879648500188-2605260923-6" eva="8089109">
+    <ar ct="2605260933" l="S42"/>
+    <dp ct="2605260934" l="S42"/>
+</s>
+
+
+<s id="4387684096000536409-2605260843-23" eva="8089109">
+    <ar ct="2605260932" l="S41"/>
+    <dp ct="2605260932" l="S41"/>
+</s>
+
+
+<s id="-8203268392178314228-2605260918-6" eva="8089109">
+    <ar ct="2605260929" l="S42"/>
+    <dp ct="2605260929" l="S42"/>
+</s>
+
+
+<s id="6353074317074160701-2605260838-23" eva="8089109">
+    <ar ct="2605260926" l="S41"/>
+    <dp ct="2605260927" l="S41"/>
+</s>
+
+
+<s id="-2735335947138066193-2605260913-6" eva="8089109">
+    <ar ct="2605260924" l="S42"/>
+    <dp ct="2605260924" l="S42"/>
+</s>
+
+
+<s id="5696088115119565621-2605260833-23" eva="8089109">
+    <ar ct="2605260922" l="S41"/>
+    <dp ct="2605260922" l="S41"/>
+</s>
+
+
+<s id="-5753026379310696589-2605260916-4" eva="8089109">
+    <ar ct="2605260921" l="S46"/>
+    <dp ct="2605260922" l="S46"/>
+</s>
+
+
+<s id="-6093571110288798450-2605260908-6" eva="8089109">
+    <ar ct="2605260919" l="S42"/>
+    <dp ct="2605260920" l="S42"/>
+</s>
+
+
+<s id="-393169287984740832-2605260828-23" eva="8089109">
+    <ar ct="2605260919" l="S41"/>
+    <dp ct="2605260920" l="S41"/>
+</s>
+
+
+<s id="2434982940497696784-2605260821-20" eva="8089109">
+    <ar ct="2605260916" l="S46"/>
+    <dp ct="2605260917" l="S46"/>
+</s>
+
+
+<s id="2305013733887078366-2605260903-6" eva="8089109">
+    <ar ct="2605260913" l="S42"/>
+    <dp ct="2605260914" l="S42"/>
+</s>
+
+
+<s id="2286387872883253975-2605260823-23" eva="8089109">
+    <ar ct="2605260911" l="S41"/>
+    <dp ct="2605260912" l="S41"/>
+</s>
+
+
+<s id="2895259994102907951-2605260858-6" eva="8089109">
+    <ar ct="2605260909" l="S42"/>
+    <dp ct="2605260910" l="S42"/>
+</s>
+
+
+<s id="-1501200102612788739-2605260853-6" eva="8089109">
+    <ar ct="2605260906" l="S42"/>
+    <dp ct="2605260907" l="S42"/>
+</s>
+
+
+<s id="3238393513524062564-2605260856-4" eva="8089109">
+    <ar ct="2605260903" l="S46"/>
+    <dp ct="2605260904" l="S46"/>
+</s>
+
+
+<s id="-8597249134610499180-2605260848-6" eva="8089109">
+    <ar ct="2605260858" l="S42"/>
+    <dp ct="2605260859" l="S42"/>
+</s>
+
+
+<s id="-2806508315889445611-2605260808-23" eva="8089109">
+    <ar ct="2605260858" l="S41"/>
+    <dp ct="2605260859" l="S41"/>
+</s>
+
+
+<s id="-6806682247006037384-2605260801-20" eva="8089109">
+    <ar ct="2605260856" l="S46"/>
+    <dp ct="2605260856" l="S46"/>
+</s>
+
+
+<s id="2174563987286365740-2605260843-6" eva="8089109">
+    <ar ct="2605260854" l="S42"/>
+    <dp ct="2605260855" l="S42"/>
+</s>
+
+
+<s id="-2114982784931969589-2605260803-23" eva="8089109">
+    <ar ct="2605260852" l="S41"/>
+    <dp ct="2605260851" l="S41"/>
+</s>
+
+
+<s id="-4045648113622445013-2605260758-23" eva="8089109">
+    <ar ct="2605260848" l="S41"/>
+    <dp ct="2605260851" l="S41"/>
+</s>
+
+
+<s id="-2751460866259938347-2605260838-6" eva="8089109">
+    <ar cpth="Berlin Beusselstraße|Berlin Jungfernheide (S)|Berlin Westend|Berlin Messe Nord/ZOB (Witzleben)|Berlin Westkreuz" ct="2605260849" l="S42"/>
+    <dp cpth="Berlin Hohenzollerndamm|Berlin Heidelberger Platz|Berlin Bundesplatz|Berlin Innsbrucker Platz|Berlin-Schöneberg|Berlin Südkreuz (S)|Berlin-Tempelhof|Berlin Hermannstraße|Berlin-Neukölln|Berlin Köllnische Heide|Berlin Baumschulenweg|Berlin-Schöneweide (S)|Berlin-Johannisthal|Berlin-Adlershof|Berlin-Grünau" ct="2605260850" l="S42"/>
+</s>
+
+
+<s id="5085491779237854921-2605260833-6" eva="8089109">
+    <ar ct="2605260843" l="S42"/>
+    <dp ct="2605260844" l="S42"/>
+</s>
+
+
+<s id="5978109634612999773-2605260836-4" eva="8089109">
+    <ar ct="2605260841" l="S46"/>
+    <dp ct="2605260842" l="S46"/>
+</s>
+
+
+<s id="2140175503612971534-2605260828-6" eva="8089109">
+    <ar ct="2605260838" l="S42"/>
+    <dp ct="2605260839" l="S42"/>
+</s>
+
+
+<s id="4014608672682644431-2605260748-23" eva="8089109">
+    <ar ct="2605260838" l="S41"/>
+    <dp ct="2605260839" l="S41"/>
+</s>
+
+
+<s id="1227618017671504252-2605260823-6" eva="8089109">
+    <ar ct="2605260833" l="S42"/>
+    <dp ct="2605260834" l="S42"/>
+</s>
+
+
+<s id="6099747721735551092-2605260743-23" eva="8089109">
+    <ar ct="2605260831" l="S41"/>
+    <dp ct="2605260832" l="S41"/>
+</s>
+
+
+<s id="-4383691265358348637-2605260818-6" eva="8089109">
+    <ar ct="2605260828" l="S42"/>
+    <dp ct="2605260829" l="S42"/>
+</s>
+
+
+<s id="-1160057803840118628-2605260738-23" eva="8089109">
+    <ar ct="2605260827" l="S41"/>
+    <dp ct="2605260828" l="S41"/>
+</s>
+
+
+<s id="-4016239033272319033-2605260813-6" eva="8089109">
+    <ar ct="2605260824" l="S42"/>
+    <dp ct="2605260824" l="S42"/>
+</s>
+
+
+<s id="429362203401189678-2605260816-4" eva="8089109">
+    <ar ct="2605260822" l="S46"/>
+    <dp ct="2605260822" l="S46"/>
+</s>
+
+
+<s id="3000960157804559006-2605260733-23" eva="8089109">
+    <ar ct="2605260821" l="S41"/>
+    <dp ct="2605260822" l="S41"/>
+</s>
+
+
+<s id="2911904560907577677-2605260808-6" eva="8089109">
+    <ar ct="2605260818" l="S42"/>
+    <dp ct="2605260819" l="S42"/>
+</s>
+
+
+<s id="998045232377439105-2605260728-23" eva="8089109">
+    <ar ct="2605260816" l="S41"/>
+    <dp ct="2605260817" l="S41"/>
+</s>
+
+
+<s id="6481795853459375663-2605260803-6" eva="8089109">
+    <ar ct="2605260813" l="S42"/>
+    <dp ct="2605260814" l="S42"/>
+</s>
+
+
+<s id="-5685992453357247571-2605260723-23" eva="8089109">
+    <ar ct="2605260811" l="S41"/>
+    <dp ct="2605260812" l="S41"/>
+</s>
+
+
+<s id="-63457652084688090-2605260758-6" eva="8089109">
+    <ar ct="2605260809" l="S42"/>
+    <dp ct="2605260810" l="S42"/>
+</s>
+
+
+<s id="-8984336132092923740-2605260718-23" eva="8089109">
+    <ar ct="2605260806" l="S41"/>
+    <dp ct="2605260807" l="S41"/>
+</s>
+
+
+<s id="375008021876401193-2605260638-6" eva="8089109">
+    <ar ct="2605260649" l="S42"/>
+    <dp ct="2605260649" dc="1" l="S42"/>
+</s>
+
+
+<s id="-7526868870447892953-2605260738-6" eva="8089109">
+    <ar ct="2605260749" l="S42"/>
+    <dp ct="2605260749" cde="Berlin-Grünau" dc="1" l="S42"/>
+</s>
+
+
+<s id="-3152227233214291675-2605260753-6" eva="8089109">
+    <ar ct="2605260803" l="S42"/>
+    <dp ct="2605260804" l="S42"/>
+</s>
+
+
+<s id="8513996349774318165-2605260756-4" eva="8089109">
+    <ar ct="2605260801" l="S46"/>
+    <dp ct="2605260802" l="S46"/>
+</s>
+
+
+<s id="4579977180027650739-2605260748-6" eva="8089109">
+    <ar ct="2605260759" l="S42"/>
+    <dp ct="2605260759" l="S42"/>
+</s>
+
+
+<s id="6038910343784222705-2605260708-23" eva="8089109">
+    <ar ct="2605260757" l="S41"/>
+    <dp ct="2605260758" l="S41"/>
+</s>
+
+
+<s id="-8904353827105678579-2605260743-6" eva="8089109">
+    <ar ct="2605260754" l="S42"/>
+    <dp ct="2605260755" l="S42"/>
+</s>
+
+
+<s id="-6779962338982159023-2605260703-23" eva="8089109">
+    <ar ct="2605260752" l="S41"/>
+    <dp ct="2605260752" l="S41"/>
+</s>
+
+
+<s id="7473991259274748731-2605260658-23" eva="8089109">
+    <ar ct="2605260746" l="S41"/>
+    <dp ct="2605260747" l="S41"/>
+</s>
+
+
+<s id="-4426485833451441975-2605260733-6" eva="8089109">
+    <ar ct="2605260744" l="S42"/>
+    <dp ct="2605260744" l="S42"/>
+</s>
+
+
+<s id="1999970513453681912-2605260653-23" eva="8089109">
+    <ar ct="2605260741" l="S41"/>
+    <dp ct="2605260742" l="S41"/>
+</s>
+
+
+<s id="496278233686736892-2605260728-6" eva="8089109">
+    <ar ct="2605260739" l="S42"/>
+    <dp ct="2605260740" l="S42"/>
+</s>
+
+
+<s id="-3958617845669930516-2605260648-23" eva="8089109">
+    <ar ct="2605260737" l="S41"/>
+    <dp ct="2605260738" l="S41"/>
+</s>
+
+
+<s id="-2527746905858996443-2605260723-6" eva="8089109">
+    <ar ct="2605260733" l="S42"/>
+    <dp ct="2605260734" l="S42"/>
+</s>
+
+
+<s id="-6070382121289400868-2605260643-23" eva="8089109">
+    <ar ct="2605260731" l="S41"/>
+    <dp ct="2605260732" l="S41"/>
+</s>
+
+
+<s id="-8222421554350450262-2605260718-6" eva="8089109">
+    <ar ct="2605260728" l="S42"/>
+    <dp ct="2605260729" l="S42"/>
+</s>
+
+
+<s id="6457481396548382167-2605260638-23" eva="8089109">
+    <ar ct="2605260726" l="S41"/>
+    <dp ct="2605260727" l="S41"/>
+</s>
+
+
+<s id="1365568335165220092-2605260713-6" eva="8089109">
+    <ar ct="2605260724" l="S42"/>
+    <dp ct="2605260724" l="S42"/>
+</s>
+
+
+<s id="1651931071947738116-2605260633-23" eva="8089109">
+    <ar ct="2605260721" l="S41"/>
+    <dp ct="2605260722" l="S41"/>
+</s>
+
+
+<s id="3253980344955793808-2605260708-6" eva="8089109">
+    <ar ct="2605260718" l="S42"/>
+    <dp ct="2605260719" l="S42"/>
+</s>
+
+
+<s id="8821440915139406989-2605260628-23" eva="8089109">
+    <ar ct="2605260716" l="S41"/>
+    <dp ct="2605260717" l="S41"/>
+</s>
+
+
+<s id="140949832557414535-2605260703-6" eva="8089109">
+    <ar ct="2605260714" l="S42"/>
+    <dp ct="2605260714" l="S42"/>
+</s>
+
+
+<s id="456281368215786411-2605260623-23" eva="8089109">
+    <ar ct="2605260711" l="S41"/>
+    <dp ct="2605260712" l="S41"/>
+</s>
+
+
+<s id="-6073454969290882456-2605260658-6" eva="8089109">
+    <ar ct="2605260708" l="S42"/>
+    <dp ct="2605260709" l="S42"/>
+</s>
+
+
+<s id="-4670783219496744464-2605260618-23" eva="8089109">
+    <ar ct="2605260706" l="S41"/>
+    <dp ct="2605260707" l="S41"/>
+</s>
+
+
+<s id="2086243976487052471-2605260653-6" eva="8089109">
+    <ar ct="2605260704" l="S42"/>
+    <dp ct="2605260705" l="S42"/>
+</s>
+
+
+<s id="-803103148805485561-2605260613-23" eva="8089109">
+    <ar ct="2605260701" l="S41"/>
+    <dp ct="2605260702" l="S41"/>
+</s>
+
+
+<s id="7945752130248629171-2605260648-6" eva="8089109">
+    <ar ct="2605260658" l="S42"/>
+    <dp ct="2605260659" l="S42"/>
+</s>
+
+
+<s id="2104740110619819504-2605260608-23" eva="8089109">
+    <ar ct="2605260657" l="S41"/>
+    <dp ct="2605260657" l="S41"/>
+</s>
+
+
+<s id="-4302765632843127807-2605260643-6" eva="8089109">
+    <ar ct="2605260653" l="S42"/>
+    <dp ct="2605260654" l="S42"/>
+</s>
+
+
+<s id="273014058126863917-2605260603-23" eva="8089109">
+    <ar ct="2605260651" l="S41"/>
+    <dp ct="2605260652" l="S41"/>
+</s>
+
+
+<s id="-3187168540075797692-2605260558-23" eva="8089109">
+    <ar ct="2605260648" l="S41"/>
+    <dp ct="2605260649" l="S41"/>
+</s>
+
+
+<s id="7587215226763874000-2605260633-6" eva="8089109">
+    <ar ct="2605260644" l="S42"/>
+    <dp ct="2605260645" l="S42"/>
+</s>
+
+
+<s id="688660120021271968-2605260553-23" eva="8089109">
+    <ar ct="2605260641" l="S41"/>
+    <dp ct="2605260642" l="S41"/>
+</s>
+
+
+<s id="-4620955272830255767-2605260628-6" eva="8089109">
+    <ar ct="2605260638" l="S42"/>
+    <dp ct="2605260639" l="S42"/>
+</s>
+
+
+<s id="531473593874467722-2605260548-23" eva="8089109">
+    <ar ct="2605260636" l="S41"/>
+    <dp ct="2605260637" l="S41"/>
+</s>
+
+
+<s id="7779646383727268886-2605260623-6" eva="8089109">
+    <ar ct="2605260633" l="S42"/>
+    <dp ct="2605260634" l="S42"/>
+</s>
+
+
+<s id="-5198872156698415801-2605260543-23" eva="8089109">
+    <ar ct="2605260631" l="S41"/>
+    <dp ct="2605260632" l="S41"/>
+</s>
+
+
+<s id="8823110854083802744-2605260618-6" eva="8089109">
+    <ar ct="2605260628" l="S42"/>
+    <dp ct="2605260629" l="S42"/>
+</s>
+
+
+<s id="2817964890652545357-2605260538-23" eva="8089109">
+    <ar ct="2605260626" dc="1" l="S41"/>
+    <dp ct="2605260627" l="S41"/>
+</s>
+
+
+<s id="-4193175200667020593-2605260613-6" eva="8089109">
+    <ar ct="2605260624" l="S42"/>
+    <dp ct="2605260625" l="S42"/>
+</s>
+
+
+<s id="-1098796271176625064-2605260533-23" eva="8089109">
+    <ar ct="2605260621" l="S41"/>
+    <dp ct="2605260622" l="S41"/>
+</s>
+
+
+<s id="6263611158519933415-2605260608-6" eva="8089109">
+    <ar ct="2605260618" l="S42"/>
+    <dp ct="2605260619" l="S42"/>
+</s>
+
+
+<s id="-8847239909007976043-2605260528-23" eva="8089109">
+    <ar ct="2605260616" l="S41"/>
+    <dp ct="2605260617" l="S41"/>
+</s>
+
+
+<s id="-1206849490225134020-2605260603-6" eva="8089109">
+    <ar ct="2605260614" l="S42"/>
+    <dp ct="2605260615" l="S42"/>
+</s>
+
+
+<s id="-4216712497894617144-2605260523-23" eva="8089109">
+    <ar ct="2605260611" l="S41"/>
+    <dp ct="2605260612" l="S41"/>
+</s>
+
+
+<s id="-1833590842506692926-2605260558-6" eva="8089109">
+    <ar ct="2605260609" l="S42"/>
+    <dp ct="2605260610" l="S42"/>
+</s>
+
+
+<s id="-9030523163940174413-2605260553-6" eva="8089109">
+    <ar ct="2605260607" l="S42"/>
+    <dp ct="2605260608" l="S42"/>
+</s>
+
+
+<s id="-3960478017107434154-2605260518-23" eva="8089109">
+    <ar ct="2605260607" l="S41"/>
+    <dp ct="2605260607" l="S41"/>
+</s>
+
+
+<s id="7328331137075260257-2605260548-6" eva="8089109">
+    <ar ct="2605260602" l="S42"/>
+    <dp ct="2605260603" l="S42"/>
+</s>
+
+
+<s id="3177603908051531313-2605260513-23" eva="8089109">
+    <ar ct="2605260601" l="S41"/>
+    <dp ct="2605260602" l="S41"/>
+</s>
+
+
+<s id="9161268306419759730-2605260508-23" eva="8089109">
+    <ar ct="2605260557" l="S41"/>
+    <dp ct="2605260557" l="S41"/>
+</s>
+
+
+<s id="5749235883903314681-2605260543-6" eva="8089109">
+    <ar ct="2605260554" l="S42"/>
+    <dp ct="2605260554" l="S42"/>
+</s>
+
+
+<s id="-3101982101697255522-2605260510-16" eva="8089109">
+    <ar ct="2605260551" l="S41"/>
+    <dp ct="2605260552" l="S41"/>
+</s>
+
+
+<s id="5127324635550135987-2605260538-6" eva="8089109">
+    <ar ct="2605260548" l="S42"/>
+    <dp ct="2605260549" l="S42"/>
+</s>
+
+
+<s id="6763968088707706427-2605260458-23" eva="8089109">
+    <ar ct="2605260546" l="S41"/>
+    <dp ct="2605260547" l="S41"/>
+</s>
+
+
+<s id="-2400547417649519020-2605260533-6" eva="8089109">
+    <ar ct="2605260544" l="S42"/>
+    <dp ct="2605260544" l="S42"/>
+</s>
+
+
+<s id="6794860434471554286-2605260530-7" eva="8089109">
+    <ar ct="2605260541" l="S41"/>
+    <dp ct="2605260542" l="S41"/>
+</s>
+
+
+<s id="7074993223005237914-2605260528-6" eva="8089109">
+    <ar ct="2605260538" l="S42"/>
+    <dp ct="2605260539" l="S42"/>
+</s>
+
+
+<s id="1310397377064609884-2605260448-23" eva="8089109">
+    <ar ct="2605260536" l="S41"/>
+    <dp ct="2605260537" l="S41"/>
+</s>
+
+
+<s id="-8279964610096883950-2605260450-16" eva="8089109">
+    <ar ct="2605260532" l="S41"/>
+    <dp ct="2605260533" l="S41"/>
+</s>
+
+
+<s id="8460437527538568371-2605260518-6" eva="8089109">
+    <ar ct="2605260529" l="S42"/>
+    <dp ct="2605260529" l="S42"/>
+</s>
+
+
+<s id="-7616722225347814346-2605260438-23" eva="8089109">
+    <ar ct="2605260528" dc="1" l="S41">
+        <m id="r57746783" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746784" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746785" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746786" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+    </ar>
+    <dp ct="2605260528" l="S41">
+        <m id="r57746783" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746784" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746785" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+        <m id="r57746786" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:58.005"/>
+    </dp>
+</s>
+
+
+<s id="-6643355421947533389-2605260516-4" eva="8089109">
+    <ar ct="2605260522" l="S41"/>
+    <dp ct="2605260522" l="S41"/>
+</s>
+
+
+<s id="-9062942860843576281-2605260508-6" eva="8089109">
+    <ar ct="2605260518" l="S42"/>
+    <dp ct="2605260519" l="S42"/>
+</s>
+
+
+<s id="-4317619809128022477-2605260428-23" eva="8089109">
+    <ar ct="2605260516" l="S41"/>
+    <dp ct="2605260517" l="S41"/>
+</s>
+
+
+<s id="2065847493242049548-2605260440-13" eva="8089109">
+    <ar ct="2605260511" l="S41"/>
+    <dp ct="2605260512" l="S41"/>
+</s>
+
+
+<s id="7769467436203601831-2605260458-6" eva="8089109">
+    <ar ct="2605260508" l="S42"/>
+    <dp ct="2605260509" l="S42"/>
+</s>
+
+
+<s id="4955264545808928030-2605260418-23" eva="8089109">
+    <ar ct="2605260507" l="S41"/>
+    <dp ct="2605260508" l="S41"/>
+</s>
+
+
+<s id="1315766643121020998-2605260502-1" eva="8089109">
+    <dp ct="2605260502" l="S41"/>
+</s>
+
+
+<s id="-2098955970692831510-2605260448-6" eva="8089109">
+    <ar ct="2605260458" l="S42"/>
+    <dp ct="2605260459" l="S42"/>
+</s>
+
+
+<s id="-271694970610446295-2605260408-23" eva="8089109">
+    <ar ct="2605260456" l="S41"/>
+    <dp ct="2605260457" l="S41"/>
+</s>
+
+
+<s id="221474536379961600-2605260438-6" eva="8089109">
+    <ar ct="2605260448" l="S42"/>
+    <dp ct="2605260449" l="S42"/>
+</s>
+
+
+<s id="8719769342073995577-2605260405-20" eva="8089109">
+    <ar ct="2605260446" l="S41"/>
+    <dp ct="2605260447" l="S41"/>
+</s>
+
+
+<s id="-1111351431147838041-2605260428-6" eva="8089109">
+    <ar ct="2605260439" l="S42"/>
+    <dp ct="2605260440" l="S42"/>
+</s>
+
+
+<s id="-9054372128207350960-2605260401-17" eva="8089109">
+    <ar ct="2605260436" l="S41"/>
+    <dp ct="2605260437" l="S41"/>
+</s>
+
+
+<s id="-3898299205741032695-2605260418-6" eva="8089109">
+    <ar ct="2605260428" l="S42"/>
+    <dp ct="2605260429" l="S42"/>
+</s>
+
+
+<s id="3917803887105446684-2605260408-6" eva="8089109">
+    <ar ct="2605260418" l="S42"/>
+    <dp ct="2605260419" l="S42"/>
+</s>
+
+
+<s id="-1020397874048675729-2605260411-4" eva="8089109">
+    <ar ct="2605260419" l="S41"/>
+    <dp ct="2605260419" l="S41"/>
+</s>
+
+
+<s id="7197989823153879241-2605260358-6" eva="8089109">
+    <ar ct="2605260408" l="S42"/>
+    <dp ct="2605260409" l="S42"/>
+</s>
+
+
+<s id="-5867842893510111922-2605260345-20" eva="8089109">
+    <ar cpth="Berlin Gesundbrunnen(S)|Berlin Schönhauser Allee|Berlin Prenzlauer Allee" ct="2605260435" cs="c" clt="2605260401" l="S41">
+        <m id="r57746732" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:12.134"/>
+    </ar>
+    <dp cpth="" ct="2605260435" cs="c" clt="2605260401" l="S41">
+        <m id="r57746732" t="f" c="0" ts="2605260358" ts-tts="26-05-26 03:58:12.134"/>
+    </dp>
+</s>
+
+
+<s id="4452597677740860356-2605260355-2" eva="8089109">
+    <ar ct="2605260358" l="S42"/>
+    <dp ct="2605260359" l="S42"/>
+</s>
+
+</timetable>

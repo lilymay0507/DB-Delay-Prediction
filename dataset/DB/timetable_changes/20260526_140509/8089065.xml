@@ -1,0 +1,755 @@
+<timetable station="Berlin-Hirschgarten" eva="8089065">
+
+<s id="-2361523701801446551-2605261435-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261449" l="S3"/>
+    <dp ct="2605261450" l="S3"/>
+</s>
+
+
+<s id="8904291093051549941-2605261416-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261417" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261418" l="S3"/>
+</s>
+
+
+<s id="-5448692493940552862-2605261356-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261358" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261358" l="S3"/>
+</s>
+
+
+<s id="-4376882892646369698-2605261355-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261409" l="S3"/>
+    <dp ct="2605261410" l="S3"/>
+</s>
+
+
+<s id="-5629850508135563060-2605261415-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261428" l="S3"/>
+    <dp ct="2605261428" l="S3"/>
+</s>
+
+
+<s id="6582850213688693277-2605261335-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261349" l="S3"/>
+    <dp ct="2605261350" l="S3"/>
+</s>
+
+
+<s id="-327657824667809740-2605261451-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.291" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261347" l="S3"/>
+    <dp cpth="" cs="c" clt="2605261347" l="S3"/>
+</s>
+
+
+<s id="3388404517427392513-2605261511-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261347" l="S3"/>
+    <dp cpth="" cs="c" clt="2605261347" l="S3"/>
+</s>
+
+
+<s id="2571559526086643053-2605261431-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261347" l="S3"/>
+    <dp cpth="" cs="c" clt="2605261347" l="S3"/>
+</s>
+
+
+<s id="-2429865550217126822-2605261400-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="" ct="2605261413" cs="c" clt="2605261347" l="S3"/>
+    <dp cpth="" ct="2605261413" cs="c" clt="2605261347" l="S3"/>
+</s>
+
+
+<s id="2441732965515513030-2605261336-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261337" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261338" l="S3"/>
+</s>
+
+
+<s id="-1057206126710355335-2605261315-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261331" l="S3"/>
+    <dp ct="2605261331" l="S3"/>
+</s>
+
+
+<s id="-2794178316088186014-2605261316-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261317" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261318" l="S3"/>
+</s>
+
+
+<s id="7531102054121913513-2605261255-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261308" l="S3"/>
+    <dp ct="2605261308" l="S3"/>
+</s>
+
+
+<s id="8834493246600353734-2605261455-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+</s>
+
+
+<s id="2215318421587390829-2605261235-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar ct="2605261248" l="S3"/>
+    <dp ct="2605261248" l="S3"/>
+</s>
+
+
+<s id="-3932528673548877360-2605261445-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="S3"/>
+</s>
+
+
+<s id="4947026977599949120-2605261425-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="S3"/>
+</s>
+
+
+<s id="-6746714601117049668-2605261256-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.292" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261258" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261258" l="S3"/>
+</s>
+
+
+<s id="8372843425362642790-2605261236-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.291" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261238" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261238" l="S3"/>
+</s>
+
+
+<s id="4782331195497259934-2605261545-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="S3"/>
+</s>
+
+
+<s id="-3747521728960388479-2605261525-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" l="S3"/>
+</s>
+
+
+<s id="4596327736789342764-2605261216-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar cpth="Berlin-Friedrichshagen" ct="2605261218" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße" ct="2605261218" l="S3"/>
+</s>
+
+
+<s id="3586565163520069226-2605261215-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261228" l="S3"/>
+    <dp ct="2605261228" l="S3"/>
+</s>
+
+
+<s id="-2510683957234545195-2605261155-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261210" l="S3"/>
+    <dp ct="2605261210" l="S3"/>
+</s>
+
+
+<s id="7013279288321877639-2605261156-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261157" l="S3"/>
+    <dp ct="2605261158" l="S3"/>
+</s>
+
+
+<s id="8147407003697908487-2605261135-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261149" l="S3"/>
+    <dp ct="2605261149" l="S3"/>
+</s>
+
+
+<s id="5248100124080035724-2605261136-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261137" l="S3"/>
+    <dp ct="2605261138" l="S3"/>
+</s>
+
+
+<s id="1505055072412557791-2605261115-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261128" l="S3"/>
+    <dp ct="2605261128" l="S3"/>
+</s>
+
+
+<s id="3395820700634239204-2605261116-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261118" l="S3"/>
+    <dp ct="2605261118" l="S3"/>
+</s>
+
+
+<s id="-45229876672715008-2605261055-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261108" l="S3"/>
+    <dp ct="2605261108" l="S3"/>
+</s>
+
+
+<s id="3017823729095809220-2605261056-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261058" l="S3"/>
+    <dp ct="2605261058" l="S3"/>
+</s>
+
+
+<s id="519505132451559714-2605261035-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261048" l="S3"/>
+    <dp ct="2605261048" l="S3"/>
+</s>
+
+
+<s id="1939967293973667232-2605261036-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261038" l="S3"/>
+    <dp ct="2605261038" l="S3"/>
+</s>
+
+
+<s id="8143370572596346695-2605261015-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261028" l="S3"/>
+    <dp ct="2605261029" l="S3"/>
+</s>
+
+
+<s id="-1713150386836065520-2605260915-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar cpth="Erkner (S)|Berlin-Wilhelmshagen|Berlin-Rahnsdorf|Berlin-Friedrichshagen" ct="2605260927" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin Messe Süd (Eichkamp)|Berlin Heerstraße|Berlin Olympiastadion" ct="2605260928" l="S3"/>
+</s>
+
+
+<s id="-5500816799540345164-2605261016-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605261018" l="S3"/>
+    <dp ct="2605261018" l="S3"/>
+</s>
+
+
+<s id="5711699968614096923-2605260955-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605261008" l="S3"/>
+    <dp ct="2605261008" l="S3"/>
+</s>
+
+
+<s id="6525435125916561984-2605260935-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260949" l="S3"/>
+    <dp ct="2605260949" l="S3"/>
+</s>
+
+
+<s id="-1895862484362575289-2605260855-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260908" l="S3"/>
+    <dp ct="2605260909" l="S3"/>
+</s>
+
+
+<s id="-4387326181838854916-2605260835-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260848" l="S3"/>
+    <dp ct="2605260848" l="S3"/>
+</s>
+
+
+<s id="623856236989244035-2605261651-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="-3584232145661408668-2605261631-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="1367613612715034311-2605261611-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="8035014326161975658-2605261551-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="3584271825577796780-2605261531-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="7264278137521668016-2605260911-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260913" l="S3"/>
+    <dp ct="2605260914" l="S3"/>
+</s>
+
+
+<s id="8817337736319723470-2605260851-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260853" l="S3"/>
+    <dp ct="2605260854" l="S3"/>
+</s>
+
+
+<s id="7190681082244470586-2605260831-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+    <ar ct="2605260833" l="S3"/>
+    <dp ct="2605260834" l="S3"/>
+</s>
+
+
+<s id="-6344587861083005374-2605261815-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="5183786826876065133-2605261755-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="-7877308287806187433-2605261735-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="-769611413363731020-2605261715-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="7930209459211267267-2605261655-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="2217815356718811581-2605261635-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="-6003416535715013570-2605261615-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="433256177367347147-2605261555-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.404" pr="1"/>
+</s>
+
+
+<s id="-6829664605985498835-2605261535-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="960954342962415848-2605261515-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-8541613138949153435-2605261725-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-7593624377131767555-2605261705-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-5587048103536813978-2605261645-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="4046529063514582092-2605261625-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-5945650153841323899-2605261605-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-8016806523261770010-2605261505-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="8003700855437223527-2605260936-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605260938" l="S3"/>
+    <dp ct="2605260939" l="S3"/>
+</s>
+
+
+<s id="7669315520681333463-2605260905-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605260917" l="S3"/>
+    <dp ct="2605260918" l="S3"/>
+</s>
+
+
+<s id="-6326383861758371581-2605260845-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605260858" l="S3"/>
+    <dp ct="2605260858" l="S3"/>
+</s>
+
+
+<s id="-7323848166213784619-2605260956-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+    <ar ct="2605260957" l="S3"/>
+    <dp ct="2605260958" l="S3"/>
+</s>
+
+
+<s id="5839765028321460475-2605261811-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-8301027735863928411-2605261751-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="1488620004010905987-2605261731-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-6767596916102220241-2605261711-2" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="1833028343922562128-2605261825-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="8639294867159672208-2605261805-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="-9014381962086160958-2605261745-5" eva="8089065">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.403" pr="1"/>
+</s>
+
+
+<s id="3782831966771374611-2605260825-5" eva="8089065">
+    <ar ct="2605260838" l="S3"/>
+    <dp ct="2605260839" l="S3"/>
+</s>
+
+
+<s id="-7440634020939908798-2605260815-5" eva="8089065">
+    <ar ct="2605260828" l="S3"/>
+    <dp ct="2605260828" l="S3"/>
+</s>
+
+
+<s id="8319789419833510041-2605260805-5" eva="8089065">
+    <ar ct="2605260818" l="S3"/>
+    <dp ct="2605260819" l="S3"/>
+</s>
+
+
+<s id="4294985761735328524-2605270026-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3">
+        <m id="r57748069" t="f" c="0" ts="2605260446" ts-tts="26-05-26 04:46:46.876"/>
+    </ar>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3">
+        <m id="r57748069" t="f" c="0" ts="2605260446" ts-tts="26-05-26 04:46:46.876"/>
+    </dp>
+</s>
+
+
+<s id="7901437866642300938-2605270028-21" eva="8089065">
+    <ar cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260429" l="S3">
+        <m id="r57748025" t="f" c="0" ts="2605260443" ts-tts="26-05-26 04:43:57.682"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2605260429" l="S3">
+        <m id="r57748025" t="f" c="0" ts="2605260443" ts-tts="26-05-26 04:43:57.682"/>
+    </dp>
+</s>
+
+
+<s id="-8326338997486932500-2605270006-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3"/>
+</s>
+
+
+<s id="216577482294746534-2605260811-2" eva="8089065">
+    <ar ct="2605260813" l="S3"/>
+    <dp ct="2605260814" l="S3"/>
+</s>
+
+
+<s id="-3434013178184300193-2605260755-5" eva="8089065">
+    <ar ct="2605260808" l="S3"/>
+    <dp ct="2605260808" l="S3"/>
+</s>
+
+
+<s id="-1303614309797962650-2605260745-5" eva="8089065">
+    <ar ct="2605260758" l="S3"/>
+    <dp ct="2605260758" l="S3"/>
+</s>
+
+
+<s id="-368569816090751715-2605260751-2" eva="8089065">
+    <ar ct="2605260753" l="S3"/>
+    <dp ct="2605260754" l="S3"/>
+</s>
+
+
+<s id="-7083190518588642364-2605260735-5" eva="8089065">
+    <ar ct="2605260748" l="S3"/>
+    <dp ct="2605260748" l="S3"/>
+</s>
+
+
+<s id="6790209383390308953-2605260725-5" eva="8089065">
+    <ar ct="2605260738" l="S3"/>
+    <dp ct="2605260739" l="S3"/>
+</s>
+
+
+<s id="2506197654051509141-2605260731-2" eva="8089065">
+    <ar ct="2605260733" l="S3"/>
+    <dp ct="2605260734" l="S3"/>
+</s>
+
+
+<s id="-2749740654800524730-2605260715-5" eva="8089065">
+    <ar ct="2605260728" l="S3"/>
+    <dp ct="2605260728" l="S3"/>
+</s>
+
+
+<s id="-8782618055418068378-2605260705-5" eva="8089065">
+    <ar ct="2605260718" l="S3"/>
+    <dp ct="2605260719" l="S3"/>
+</s>
+
+
+<s id="6078170797641103880-2605262357-26" eva="8089065">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260358" l="S3"/>
+    <dp cpth="" cs="c" clt="2605260358" l="S3"/>
+</s>
+
+
+<s id="4397109662926381180-2605262317-26" eva="8089065">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260318" l="S3"/>
+    <dp cpth="" cs="c" clt="2605260318" l="S3"/>
+</s>
+
+
+<s id="-2501618313302451326-2605262337-26" eva="8089065">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260338" l="S3">
+        <m id="r57747929" t="f" c="0" ts="2605260440" ts-tts="26-05-26 04:40:37.474"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2605260338" l="S3">
+        <m id="r57747929" t="f" c="0" ts="2605260440" ts-tts="26-05-26 04:40:37.474"/>
+    </dp>
+</s>
+
+
+<s id="2262969167173304559-2605262346-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3"/>
+</s>
+
+
+<s id="-7403270519085414855-2605262326-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3"/>
+</s>
+
+
+<s id="-3610088186453198433-2605262306-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3"/>
+</s>
+
+
+<s id="-3082753080917405821-2605260711-2" eva="8089065">
+    <ar ct="2605260713" l="S3"/>
+    <dp ct="2605260714" l="S3"/>
+</s>
+
+
+<s id="5635305837669555114-2605260655-5" eva="8089065">
+    <ar ct="2605260708" l="S3"/>
+    <dp ct="2605260708" l="S3"/>
+</s>
+
+
+<s id="-216546460653433749-2605260645-5" eva="8089065">
+    <ar ct="2605260657" l="S3"/>
+    <dp ct="2605260658" l="S3"/>
+</s>
+
+
+<s id="-805046495508835644-2605260651-2" eva="8089065">
+    <ar ct="2605260653" l="S3"/>
+    <dp ct="2605260654" l="S3"/>
+</s>
+
+
+<s id="-5536277158924325492-2605260635-5" eva="8089065">
+    <ar ct="2605260647" l="S3"/>
+    <dp ct="2605260648" l="S3"/>
+</s>
+
+
+<s id="1897453417989527210-2605260625-5" eva="8089065">
+    <ar ct="2605260637" l="S3"/>
+    <dp ct="2605260638" l="S3"/>
+</s>
+
+
+<s id="-4039934107820975011-2605260615-5" eva="8089065">
+    <ar ct="2605260628" l="S3"/>
+    <dp ct="2605260628" l="S3"/>
+</s>
+
+
+<s id="3404410921131886185-2605260605-5" eva="8089065">
+    <ar ct="2605260618" l="S3"/>
+    <dp ct="2605260618" l="S3"/>
+</s>
+
+
+<s id="3214437076730557390-2605262257-26" eva="8089065">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260258" l="S3"/>
+    <dp cpth="" cs="c" clt="2605260258" l="S3"/>
+</s>
+
+
+<s id="9145916256116665890-2605262237-26" eva="8089065">
+    <ar cpth="Berlin-Spandau (S)|Berlin-Stresow|Berlin-Pichelsberg|Berlin Olympiastadion|Berlin Heerstraße|Berlin Messe Süd (Eichkamp)|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" cs="c" clt="2605260238" l="S3"/>
+    <dp cpth="" cs="c" clt="2605260238" l="S3"/>
+</s>
+
+
+<s id="5051342889627023373-2605262246-2" eva="8089065">
+    <ar cpth="Berlin-Friedrichshagen" l="S3"/>
+    <dp cpth="Berlin-Köpenick|Berlin-Wuhlheide|Berlin-Karlshorst (S)|Berlin Betriebsbf Rummelsburg|Berlin-Rummelsburg|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)" l="S3"/>
+</s>
+
+
+<s id="8751008355316943386-2605260555-5" eva="8089065">
+    <ar ct="2605260608" l="S3"/>
+    <dp ct="2605260608" l="S3"/>
+</s>
+
+
+<s id="-6817019512139541099-2605270052-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605270118" l="S3" fb="S3">
+        <m id="r57748026" t="f" c="0" ts="2605260443" ts-tts="26-05-26 04:43:57.681"/>
+    </ar>
+    <dp ppth="Berlin-Friedrichshagen" pp="1" pt="2605270119" l="S3" fb="S3">
+        <m id="r57748026" t="f" c="0" ts="2605260443" ts-tts="26-05-26 04:43:57.681"/>
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="30169"/>
+</s>
+
+
+<s id="-4808015975898134943-2605270032-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605270057" l="S3" fb="S3">
+        <m id="r57747964" t="f" c="0" ts="2605260442" ts-tts="26-05-26 04:42:40.605"/>
+    </ar>
+    <dp ppth="Berlin-Friedrichshagen|Berlin-Rahnsdorf|Berlin-Wilhelmshagen|Erkner (S)" pp="1" pt="2605270057" l="S3" fb="S3">
+        <m id="r57747964" t="f" c="0" ts="2605260442" ts-tts="26-05-26 04:42:40.605"/>
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="30197"/>
+</s>
+
+
+<s id="-7812217996138849916-2605270012-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605270038" l="S3" fb="S3"/>
+    <dp ppth="Berlin-Friedrichshagen" pp="1" pt="2605270039" l="S3" fb="S3"/>
+    <tl f="S" t="e" o="08" c="S" n="30165"/>
+</s>
+
+
+<s id="4107631934806003663-2605262352-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605270018" l="3" fb="S 3"/>
+    <dp ppth="Berlin-Friedrichshagen" pp="1" pt="2605270019" l="3" fb="S 3"/>
+    <tl f="S" t="e" o="08" c="S" n="30163"/>
+</s>
+
+
+<s id="-2420737841223840632-2605262332-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605262358" l="3" fb="S 3"/>
+    <dp ppth="Berlin-Friedrichshagen" pp="1" pt="2605262359" l="3" fb="S 3"/>
+    <tl f="S" t="e" o="08" c="S" n="30161"/>
+</s>
+
+
+<s id="5943613889614694370-2605262312-11" eva="8089065">
+    <ar ppth="Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin-Rummelsburg|Berlin Betriebsbf Rummelsburg|Berlin-Karlshorst (S)|Berlin-Wuhlheide|Berlin-Köpenick" pp="1" pt="2605262338" l="3" fb="S 3"/>
+    <dp ppth="Berlin-Friedrichshagen" pp="1" pt="2605262339" l="3" fb="S 3"/>
+    <tl f="S" t="e" o="08" c="S" n="30159"/>
+</s>
+
+</timetable>

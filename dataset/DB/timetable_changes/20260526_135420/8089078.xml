@@ -1,0 +1,1836 @@
+<timetable station="Berlin-Nikolassee" eva="8089078">
+
+<s id="8657017635244075976-2605261341-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261359" l="S7"/>
+    <dp ct="2605261359" l="S7"/>
+</s>
+
+
+<s id="-7167632220216133731-2605261251-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261350" l="S7"/>
+    <dp ct="2605261350" l="S7"/>
+</s>
+
+
+<s id="8386957451650566363-2605261231-34" eva="8089078">
+    <ar ct="2605261356" l="S1"/>
+    <dp ct="2605261356" l="S1"/>
+</s>
+
+
+<s id="5428567562693151370-2605261331-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261430" l="S7"/>
+    <dp ct="2605261431" l="S7"/>
+</s>
+
+
+<s id="8743417838421331689-2605261404-2" eva="8089078">
+    <ar ct="2605261406" l="S1"/>
+    <dp ct="2605261406" l="S1"/>
+</s>
+
+
+<s id="-973692505930481870-2605261301-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261402" l="S7"/>
+    <dp ct="2605261402" l="S7"/>
+</s>
+
+
+<s id="-6387848734618619395-2605261331-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261346" l="S7"/>
+    <dp ct="2605261347" l="S7"/>
+</s>
+
+
+<s id="6590862899083847248-2605261401-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261414" l="S7"/>
+    <dp ct="2605261415" l="S7"/>
+</s>
+
+
+<s id="2536853826763760916-2605261401-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261500" l="S7"/>
+    <dp ct="2605261500" l="S7"/>
+</s>
+
+
+<s id="7402362491564041151-2605261241-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261345" l="S7"/>
+    <dp ct="2605261345" l="S7"/>
+</s>
+
+
+<s id="-4128041871284193783-2605261235-29" eva="8089078">
+    <ar ct="2605261340" l="S1"/>
+    <dp ct="2605261341" l="S1"/>
+</s>
+
+
+<s id="6101075731607145659-2605261355-29" eva="8089078">
+    <ar ct="2605261459" l="S1"/>
+    <dp ct="2605261459" l="S1"/>
+</s>
+
+
+<s id="2550551608445398519-2605261354-2" eva="8089078">
+    <ar ct="2605261356" l="S1"/>
+    <dp ct="2605261356" l="S1"/>
+</s>
+
+
+<s id="5932952352152238438-2605261334-2" eva="8089078">
+    <ar ct="2605261336" l="S1"/>
+    <dp ct="2605261337" l="S1"/>
+</s>
+
+
+<s id="841306140217331951-2605261304-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261306" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261306" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="-7181638878852047362-2605261224-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261226" cs="p" clt="2605261217" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261227" cs="p" clt="2605261217" l="S1"/>
+</s>
+
+
+<s id="8636196545285041752-2605261244-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261246" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261247" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="3467586496140536531-2605261351-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261404" l="S7"/>
+    <dp ct="2605261405" l="S7"/>
+</s>
+
+
+<s id="-2539046491551756367-2605261321-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261336" l="S7"/>
+    <dp ct="2605261336" l="S7"/>
+</s>
+
+
+<s id="3881415846983415530-2605261351-34" eva="8089078">
+    <ar ct="2605261509" l="S1"/>
+    <dp ct="2605261509" l="S1"/>
+</s>
+
+
+<s id="-7580210361740707586-2605261351-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261450" l="S7"/>
+    <dp ct="2605261450" l="S7"/>
+</s>
+
+
+<s id="8029852172210133810-2605261231-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261333" l="S7"/>
+    <dp ct="2605261334" l="S7"/>
+</s>
+
+
+<s id="1715603565170606474-2605261211-34" eva="8089078">
+    <ar ct="2605261329" l="S1"/>
+    <dp ct="2605261330" l="S1"/>
+</s>
+
+
+<s id="2797420159025155747-2605261044-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261046" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261047" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="308448635284740799-2605261144-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261151" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261151" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="-1654285359393140584-2605261104-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261106" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261107" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="-6607739963333126454-2605261204-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261206" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261207" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="5156841409354974715-2605261124-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261126" cs="p" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261127" cs="p" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="-7158347104466442892-2605261311-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" ct="2605261327" cs="p" clt="2605261107" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261327" cs="p" clt="2605261107" l="S7"/>
+</s>
+
+
+<s id="1526507198905727989-2605261215-29" eva="8089078">
+    <ar ct="2605261319" l="S1"/>
+    <dp ct="2605261320" l="S1"/>
+</s>
+
+
+<s id="-6455031593922641955-2605261335-29" eva="8089078">
+    <ar ct="2605261439" l="S1"/>
+    <dp ct="2605261439" l="S1"/>
+</s>
+
+
+<s id="-943365739201207269-2605261221-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261320" cs="p" clt="2605261106" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2605261320" cs="p" clt="2605261106" l="S7"/>
+</s>
+
+
+<s id="-8713033717530433151-2605261344-2" eva="8089078">
+    <ar cpth="" cs="c" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" cs="c" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="5939993262368712436-2605261324-2" eva="8089078">
+    <ar cpth="" ct="2605261326" cs="c" clt="2605261317" l="S1"/>
+    <dp cpth="Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau" ct="2605261326" cs="c" clt="2605261317" l="S1"/>
+</s>
+
+
+<s id="-3207641768684853403-2605261314-2" eva="8089078">
+    <ar ct="2605261316" l="S1"/>
+    <dp ct="2605261317" l="S1"/>
+</s>
+
+
+<s id="-1277014858012149238-2605261301-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261315" l="S7"/>
+    <dp ct="2605261316" l="S7"/>
+</s>
+
+
+<s id="8695487084543627662-2605261331-34" eva="8089078">
+    <ar ct="2605261449" l="S1"/>
+    <dp ct="2605261449" l="S1"/>
+</s>
+
+
+<s id="-8558889495623945683-2605261203-30" eva="8089078">
+    <ar ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee" pp="1" ct="2605261311" pt="2605261308" l="1" fb="S 1"/>
+    <dp ppth="Berlin-Wannsee (S)" pp="1" ct="2605261312" pt="2605261309" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10097"/>
+</s>
+
+
+<s id="541603875001060954-2605261211-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261310" l="S7"/>
+    <dp ct="2605261311" l="S7"/>
+</s>
+
+
+<s id="2071622094417595665-2605261501-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261225" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="c" clt="2605261225" l="S7"/>
+</s>
+
+
+<s id="-5791201245155569633-2605261341-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar cpth="" ct="2605261447" cs="c" clt="2605261307" l="S7"/>
+    <dp cpth="" ct="2605261448" cs="c" clt="2605261307" l="S7"/>
+</s>
+
+
+<s id="8959880672393202337-2605261251-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" ct="2605261305" cs="p" clt="2605261107" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261305" cs="p" clt="2605261107" l="S7"/>
+</s>
+
+
+<s id="-5468099860063070936-2605261441-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="493753047001267020-2605261421-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-4438698738522018570-2605261321-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261217" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cs="c" clt="2605261217" l="S7"/>
+</s>
+
+
+<s id="6743968707377741356-2605261451-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="1875168639954873063-2605261431-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-7093896427227834314-2605261411-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-5515328877974528860-2605261231-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" ct="2605261245" cs="p" clt="2605261107" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261245" cs="p" clt="2605261107" l="S7"/>
+</s>
+
+
+<s id="-5899825833268278603-2605261451-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-8934446343149208047-2605261431-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="7322785166936191882-2605261411-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-8583756660436738852-2605261311-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261410" l="S7"/>
+    <dp ct="2605261410" l="S7"/>
+</s>
+
+
+<s id="7447031367813263765-2605261441-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-3410224334550905736-2605261421-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+</s>
+
+
+<s id="-568011126037798616-2605261241-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <m id="r2626826" t="h" from="2605261230" to="2605261500" cat="Störung" ts="2605261303" ts-tts="26-05-26 13:03:42.969" pr="1"/>
+    <ar ct="2605261254" l="S7"/>
+    <dp ct="2605261255" l="S7"/>
+</s>
+
+
+<s id="8798506317632074015-2605261155-29" eva="8089078">
+    <ar ct="2605261259" l="S1"/>
+    <dp ct="2605261300" l="S1"/>
+</s>
+
+
+<s id="136066581004625975-2605261201-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261301" cs="p" clt="2605261106" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2605261301" cs="p" clt="2605261106" l="S7"/>
+</s>
+
+
+<s id="5670150254095344767-2605261315-29" eva="8089078">
+    <ar ct="2605261419" l="S1"/>
+    <dp ct="2605261419" l="S1"/>
+</s>
+
+
+<s id="-1353584245745207711-2605261254-2" eva="8089078">
+    <ar ct="2605261256" l="S1"/>
+    <dp ct="2605261256" l="S1"/>
+</s>
+
+
+<s id="6784487211600579348-2605261311-34" eva="8089078">
+    <ar ct="2605261429" l="S1"/>
+    <dp ct="2605261429" l="S1"/>
+</s>
+
+
+<s id="3640320234581697512-2605261151-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261251" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2605261252" l="S7"/>
+</s>
+
+
+<s id="1249006753985684559-2605261131-34" eva="8089078">
+    <ar ct="2605261250" l="S1"/>
+    <dp ct="2605261251" l="S1"/>
+</s>
+
+
+<s id="-6944640205882483505-2605261135-29" eva="8089078">
+    <ar ct="2605261240" l="S1"/>
+    <dp ct="2605261241" l="S1"/>
+</s>
+
+
+<s id="4914604482109737474-2605261255-29" eva="8089078">
+    <ar ct="2605261359" l="S1"/>
+    <dp ct="2605261359" l="S1"/>
+</s>
+
+
+<s id="8011655206424851534-2605261234-2" eva="8089078">
+    <ar ct="2605261236" l="S1"/>
+    <dp ct="2605261237" l="S1"/>
+</s>
+
+
+<s id="-3288450011563981619-2605261221-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261236" l="S7"/>
+    <dp ct="2605261237" l="S7"/>
+</s>
+
+
+<s id="2049103661161980963-2605261251-34" eva="8089078">
+    <ar ct="2605261409" l="S1"/>
+    <dp ct="2605261409" l="S1"/>
+</s>
+
+
+<s id="3963781148212337793-2605261131-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261230" l="S7"/>
+    <dp ct="2605261231" l="S7"/>
+</s>
+
+
+<s id="6348599890745672156-2605261111-34" eva="8089078">
+    <ar ct="2605261229" l="S1"/>
+    <dp ct="2605261230" l="S1"/>
+</s>
+
+
+<s id="-2126206237271499485-2605261115-29" eva="8089078">
+    <ar ct="2605261220" l="S1"/>
+    <dp ct="2605261221" l="S1"/>
+</s>
+
+
+<s id="-8564176528128904780-2605261121-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261219" cs="p" clt="2605261105" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cs="p" clt="2605261105" l="S7"/>
+</s>
+
+
+<s id="1555138346406256057-2605261214-2" eva="8089078">
+    <ar ct="2605261216" l="S1"/>
+    <dp ct="2605261217" l="S1"/>
+</s>
+
+
+<s id="-9093017592362016842-2605261151-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261025" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="c" clt="2605261025" l="S7"/>
+</s>
+
+
+<s id="7524881986143292665-2605261111-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261211" l="S7"/>
+    <dp ct="2605261212" l="S7"/>
+</s>
+
+
+<s id="-2855106842191267651-2605261051-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261150" l="S7"/>
+    <dp ct="2605261151" l="S7"/>
+</s>
+
+
+<s id="8040809736819725461-2605261031-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261132" l="S7"/>
+    <dp ct="2605261133" l="S7"/>
+</s>
+
+
+<s id="-9083996184466150654-2605261011-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261115" l="S7"/>
+    <dp ct="2605261116" l="S7"/>
+</s>
+
+
+<s id="-5822001986182524587-2605261201-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261214" l="S7"/>
+    <dp ct="2605261215" l="S7"/>
+</s>
+
+
+<s id="-5094610155094601871-2605261141-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261155" l="S7"/>
+    <dp ct="2605261157" l="S7"/>
+</s>
+
+
+<s id="-327690849615948288-2605261121-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261136" l="S7"/>
+    <dp ct="2605261139" l="S7"/>
+</s>
+
+
+<s id="-1914033317694652747-2605261101-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261116" l="S7"/>
+    <dp ct="2605261117" l="S7"/>
+</s>
+
+
+<s id="3659163536822445911-2605261041-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261059" l="S7"/>
+    <dp ct="2605261101" l="S7"/>
+</s>
+
+
+<s id="1046024034636880477-2605261021-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" ct="2605261034" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn" ct="2605261053" l="S7"/>
+</s>
+
+
+<s id="-1176725174121622162-2605261141-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" cs="p" clt="2605261105" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" cs="p" clt="2605261105" l="S7"/>
+</s>
+
+
+<s id="7545177330519588987-2605261101-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="" ct="2605261207" cs="c" clt="2605261009" l="S7"/>
+    <dp cpth="" ct="2605261207" cs="c" clt="2605261009" l="S7"/>
+</s>
+
+
+<s id="-5750964033119259898-2605261041-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" cs="c" clt="2605261023" l="S7"/>
+    <dp cpth="" cs="c" clt="2605261023" l="S7"/>
+</s>
+
+
+<s id="3545012886419446257-2605261021-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261120" cs="c" clt="2605261023" l="S7"/>
+    <dp cpth="" ct="2605261120" cs="c" clt="2605261023" l="S7"/>
+</s>
+
+
+<s id="-4430232726620853257-2605261211-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261107" l="S7"/>
+    <dp cpth="" cs="c" clt="2605261107" l="S7"/>
+</s>
+
+
+<s id="-4602057077421194109-2605261131-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261024" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="c" clt="2605261024" l="S7"/>
+</s>
+
+
+<s id="-3300305161726452886-2605261111-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261025" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="c" clt="2605261025" l="S7"/>
+</s>
+
+
+<s id="-1126287330788860768-2605261051-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" cs="c" clt="2605261008" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" cs="c" clt="2605261008" l="S7"/>
+</s>
+
+
+<s id="8512922801102704754-2605261031-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" ct="2605261047" cs="c" clt="2605261008" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261048" cs="c" clt="2605261008" l="S7"/>
+</s>
+
+
+<s id="3138140669512233907-2605261011-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" ct="2605261024" cs="c" clt="2605261007" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261025" cs="c" clt="2605261007" l="S7"/>
+</s>
+
+
+<s id="-2634736097199271825-2605260951-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261011" l="S7"/>
+    <dp ct="2605261011" l="S7"/>
+</s>
+
+
+<s id="-8552337632803492045-2605260931-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" ct="2605260945" cs="c" clt="2605260837" l="S7"/>
+    <dp cpth="" ct="2605260946" cs="c" clt="2605260837" l="S7"/>
+</s>
+
+
+<s id="-2499022061997013183-2605261001-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261100" cs="c" clt="2605261005" l="S7"/>
+    <dp cpth="" ct="2605261100" cs="c" clt="2605261005" l="S7"/>
+</s>
+
+
+<s id="-1893139590966646249-2605260941-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261040" cs="c" clt="2605261001" l="S7"/>
+    <dp cpth="" ct="2605261040" cs="c" clt="2605261001" l="S7"/>
+</s>
+
+
+<s id="5297108456943765419-2605260951-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261053" l="S7"/>
+    <dp cpth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" ct="2605261054" l="S7"/>
+</s>
+
+
+<s id="1355311797266406564-2605260931-25" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261043" l="S7"/>
+    <dp ct="2605261044" l="S7"/>
+</s>
+
+
+<s id="8802526467178938353-2605261001-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261024" l="S7"/>
+    <dp ct="2605261029" l="S7"/>
+</s>
+
+
+<s id="5054425044177133847-2605260941-5" eva="8089078">
+    <m id="r2626731" t="h" from="2605260930" to="2605261330" cat="Störung" ts="2605261006" ts-tts="26-05-26 12:16:03.675" pr="1"/>
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="" ct="2605261004" cs="c" clt="2605260916" l="S7"/>
+    <dp cpth="Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)|Berlin Warschauer Straße|Berlin Ostkreuz (S)|Berlin Nöldnerplatz|Berlin-Lichtenberg (S)|Berlin-Friedrichsfelde Ost|Berlin Springpfuhl|Berlin Poelchaustr.|Berlin-Marzahn|Berlin Raoul-Wallenberg-Str.|Berlin Mehrower Allee|Ahrensfelde (S)" ct="2605261004" cs="c" clt="2605260916" l="S7"/>
+</s>
+
+
+<s id="5843197686694192087-2605261051-34" eva="8089078">
+    <ar ct="2605261210" l="S1"/>
+    <dp ct="2605261211" l="S1"/>
+</s>
+
+
+<s id="2981070910838239325-2605270723-30" eva="8089078">
+    <ar cpth="" ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee" pp="1" pt="2605270828" cs="c" clt="2605261210" l="1" fb="S 1"/>
+    <dp cpth="" ppth="Berlin-Wannsee (S)" pp="1" pt="2605270829" cs="c" clt="2605261210" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10069"/>
+</s>
+
+
+<s id="-8696302329435492027-2605261055-29" eva="8089078">
+    <ar ct="2605261159" l="S1"/>
+    <dp ct="2605261200" l="S1"/>
+</s>
+
+
+<s id="6527890210362704210-2605261154-2" eva="8089078">
+    <ar ct="2605261156" l="S1"/>
+    <dp ct="2605261157" l="S1"/>
+</s>
+
+
+<s id="1088535020200624871-2605261031-34" eva="8089078">
+    <ar ct="2605261150" l="S1"/>
+    <dp ct="2605261150" l="S1"/>
+</s>
+
+
+<s id="-7084038903585514973-2605261035-29" eva="8089078">
+    <ar ct="2605261139" l="S1"/>
+    <dp ct="2605261140" l="S1"/>
+</s>
+
+
+<s id="-4380746451017406535-2605261134-2" eva="8089078">
+    <ar ct="2605261136" l="S1"/>
+    <dp ct="2605261137" l="S1"/>
+</s>
+
+
+<s id="6759045818010246544-2605261011-34" eva="8089078">
+    <ar ct="2605261130" l="S1"/>
+    <dp ct="2605261131" l="S1"/>
+</s>
+
+
+<s id="-6123655235436820022-2605261015-29" eva="8089078">
+    <ar ct="2605261120" l="S1"/>
+    <dp ct="2605261121" l="S1"/>
+</s>
+
+
+<s id="-2911821122900541657-2605261151-34" eva="8089078">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)" cs="c" clt="2605261114" l="S1"/>
+    <dp cpth="" cs="c" clt="2605261114" l="S1"/>
+</s>
+
+
+<s id="8179814534007398710-2605261114-2" eva="8089078">
+    <ar ct="2605261116" l="S1"/>
+    <dp ct="2605261117" l="S1"/>
+</s>
+
+
+<s id="-1852382614679887550-2605261054-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261056" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2605261057" l="S1"/>
+</s>
+
+
+<s id="6470517583049106590-2605260951-34" eva="8089078">
+    <ar ct="2605261111" l="S1"/>
+    <dp ct="2605261111" l="S1"/>
+</s>
+
+
+<s id="1839465458389801120-2605260955-29" eva="8089078">
+    <ar ct="2605261059" l="S1"/>
+    <dp ct="2605261100" l="S1"/>
+</s>
+
+
+<s id="-1020539789936835065-2605260931-34" eva="8089078">
+    <ar ct="2605261050" l="S1"/>
+    <dp ct="2605261051" l="S1"/>
+</s>
+
+
+<s id="6277659116072466112-2605260935-29" eva="8089078">
+    <ar ct="2605261041" l="S1"/>
+    <dp ct="2605261042" l="S1"/>
+</s>
+
+
+<s id="8809983536951184310-2605261034-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605261036" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf" ct="2605261037" l="S1"/>
+</s>
+
+
+<s id="8553189944614822522-2605260911-34" eva="8089078">
+    <ar ct="2605261030" l="S1"/>
+    <dp ct="2605261031" l="S1"/>
+</s>
+
+
+<s id="-716752350816563662-2605260911-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605261028" l="S7"/>
+    <dp ct="2605261029" l="S7"/>
+</s>
+
+
+<s id="-3486310083662654682-2605261024-2" eva="8089078">
+    <ar ct="2605261026" l="S1"/>
+    <dp ct="2605261027" l="S1"/>
+</s>
+
+
+<s id="-2581913243982265043-2605260921-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz" ct="2605261021" cs="c" clt="2605260957" l="S7"/>
+    <dp cpth="" ct="2605261021" cs="c" clt="2605260957" l="S7"/>
+</s>
+
+
+<s id="-2058573886405627558-2605260915-29" eva="8089078">
+    <ar ct="2605261019" l="S1"/>
+    <dp ct="2605261020" l="S1"/>
+</s>
+
+
+<s id="-5688463078112584623-2605261014-2" eva="8089078">
+    <ar ct="2605261016" l="S1"/>
+    <dp ct="2605261017" l="S1"/>
+</s>
+
+
+<s id="-4245187874902423815-2605260921-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260934" l="S7"/>
+    <dp ct="2605260935" l="S7"/>
+</s>
+
+
+<s id="1210434999863274708-2605260901-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260917" l="S7"/>
+    <dp ct="2605260917" l="S7"/>
+</s>
+
+
+<s id="1837870032187297906-2605260841-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260858" l="S7"/>
+    <dp ct="2605260858" l="S7"/>
+</s>
+
+
+<s id="4526690562319881557-2605260911-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260926" l="S7"/>
+    <dp ct="2605260926" l="S7"/>
+</s>
+
+
+<s id="2622308821274013487-2605260901-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" ct="2605261009" cs="c" clt="2605260956" l="S7"/>
+    <dp cpth="" ct="2605261009" cs="c" clt="2605260956" l="S7"/>
+</s>
+
+
+<s id="7475984097148067190-2605260851-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260906" l="S7"/>
+    <dp ct="2605260906" l="S7"/>
+</s>
+
+
+<s id="-2059320719436476166-2605260841-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260952" l="S7"/>
+    <dp ct="2605260952" l="S7"/>
+</s>
+
+
+<s id="1783274370413714719-2605260831-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260845" l="S7"/>
+    <dp ct="2605260846" l="S7"/>
+</s>
+
+
+<s id="-8513967767041641838-2605261821-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-4342974825664247819-2605261801-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="3301742737556184250-2605261741-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="4106508201288921189-2605261721-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-2477370580072192002-2605261701-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-4968655251164376061-2605261641-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="1390527141869994091-2605261621-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-7584512470811879260-2605261601-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="2805446625888826205-2605261541-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="7072610913174243019-2605261521-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-7409842453589308706-2605261811-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-9213285949078389382-2605261751-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-6642586829647461034-2605261731-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="4858045599133853600-2605261711-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="2669617879047159482-2605261651-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-2440800421143143239-2605261631-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="-338918912024512627-2605261611-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="732838878254816626-2605261551-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="1486168508254805016-2605261531-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="1378052578664399140-2605261511-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+</s>
+
+
+<s id="4254045339386361322-2605260851-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt|Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)" ct="2605260951" cs="c" clt="2605260915" l="S7"/>
+    <dp cpth="" ct="2605260951" cs="c" clt="2605260915" l="S7"/>
+</s>
+
+
+<s id="-5166846416637321569-2605260831-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.381" pr="1"/>
+    <ar ct="2605260941" l="S7"/>
+    <dp ct="2605260942" l="S7"/>
+</s>
+
+
+<s id="753711414034235892-2605261811-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="5358052944080997724-2605261751-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="3905204132014897762-2605261731-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-4109546599051845433-2605261711-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-5736743604456986293-2605261821-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="1872082828493130312-2605261801-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-4875267814326140923-2605261741-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-5622414532099801609-2605261721-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-6852499031445135162-2605261701-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-6077089449009257656-2605261641-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-2206002407788251189-2605261651-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="5873944707627965777-2605261631-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="4470961940831818531-2605261611-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-1931530324062943262-2605261621-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="9136199458535433950-2605261601-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-4526419508944622247-2605261551-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-8514809744522356434-2605261531-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="1272016557079732526-2605261541-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="7796438042972141167-2605261521-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="7750968663030189823-2605261501-25" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="-3345095656832001720-2605261511-5" eva="8089078">
+    <m id="r2626708" t="h" from="2605260830" to="2605261130" cat="Störung" ts="2605260905" ts-tts="26-05-26 10:16:02.380" pr="1"/>
+</s>
+
+
+<s id="2243751880507433014-2605260851-34" eva="8089078">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee" ct="2605261009" l="S1"/>
+    <dp cpth="Berlin-Wannsee (S)" ct="2605261010" l="S1"/>
+</s>
+
+
+<s id="3864167694597402781-2605261004-2" eva="8089078">
+    <ar ct="2605261006" l="S1"/>
+    <dp ct="2605261007" l="S1"/>
+</s>
+
+
+<s id="-8728395287863435816-2605260855-29" eva="8089078">
+    <ar ct="2605260959" l="S1"/>
+    <dp ct="2605261000" l="S1"/>
+</s>
+
+
+<s id="7471292086578022963-2605260954-2" eva="8089078">
+    <ar ct="2605260956" l="S1"/>
+    <dp ct="2605260957" l="S1"/>
+</s>
+
+
+<s id="2634514173084792014-2605260831-34" eva="8089078">
+    <ar ct="2605260950" l="S1"/>
+    <dp ct="2605260951" l="S1"/>
+</s>
+
+
+<s id="-8145754445168957056-2605260944-2" eva="8089078">
+    <ar ct="2605260946" l="S1"/>
+    <dp ct="2605260947" l="S1"/>
+</s>
+
+
+<s id="2607258187971675669-2605260835-29" eva="8089078">
+    <ar ct="2605260939" l="S1"/>
+    <dp ct="2605260940" l="S1"/>
+</s>
+
+
+<s id="806949936636901567-2605260821-25" eva="8089078">
+    <ar ct="2605260938" l="S7"/>
+    <dp ct="2605260939" l="S7"/>
+</s>
+
+
+<s id="-2046174448513995529-2605260934-2" eva="8089078">
+    <ar ct="2605260936" l="S1"/>
+    <dp ct="2605260937" l="S1"/>
+</s>
+
+
+<s id="6714095118557531938-2605260811-34" eva="8089078">
+    <ar ct="2605260929" l="S1"/>
+    <dp ct="2605260930" l="S1"/>
+</s>
+
+
+<s id="8647255251912915148-2605260924-2" eva="8089078">
+    <ar ct="2605260926" l="S1"/>
+    <dp ct="2605260927" l="S1"/>
+</s>
+
+
+<s id="-9000021639174556835-2605260815-29" eva="8089078">
+    <ar ct="2605260920" l="S1"/>
+    <dp ct="2605260920" l="S1"/>
+</s>
+
+
+<s id="-5444509549961414149-2605260914-2" eva="8089078">
+    <ar ct="2605260917" l="S1"/>
+    <dp ct="2605260917" l="S1"/>
+</s>
+
+
+<s id="1906266522083467603-2605260751-34" eva="8089078">
+    <ar ct="2605260910" l="S1"/>
+    <dp ct="2605260911" l="S1"/>
+</s>
+
+
+<s id="5344203901431566423-2605260904-2" eva="8089078">
+    <ar ct="2605260906" l="S1"/>
+    <dp ct="2605260907" l="S1"/>
+</s>
+
+
+<s id="1149800491036808129-2605260755-29" eva="8089078">
+    <ar ct="2605260902" l="S1"/>
+    <dp ct="2605260902" l="S1"/>
+</s>
+
+
+<s id="-5887378636764931566-2605260801-25" eva="8089078">
+    <ar ct="2605260900" l="S7"/>
+    <dp ct="2605260901" l="S7"/>
+</s>
+
+
+<s id="4721160709010608443-2605260751-25" eva="8089078">
+    <ar ct="2605260850" l="S7"/>
+    <dp ct="2605260850" l="S7"/>
+</s>
+
+
+<s id="-5552247176246032799-2605260731-34" eva="8089078">
+    <ar cpth="Birkenwerder(b Berlin)|Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee" ct="2605260849" l="S1"/>
+    <dp cpth="Berlin-Wannsee (S)" ct="2605260850" l="S1"/>
+</s>
+
+
+<s id="-3505384184156903485-2605260844-2" eva="8089078">
+    <ar ct="2605260846" l="S1"/>
+    <dp ct="2605260847" l="S1"/>
+</s>
+
+
+<s id="2599992246704575695-2605260741-25" eva="8089078">
+    <ar ct="2605260845" l="S7"/>
+    <dp ct="2605260846" l="S7"/>
+</s>
+
+
+<s id="-8075670878926216068-2605260735-29" eva="8089078">
+    <ar ct="2605260841" l="S1"/>
+    <dp ct="2605260842" l="S1"/>
+</s>
+
+
+<s id="-8954323635620633270-2605260834-2" eva="8089078">
+    <ar ct="2605260836" l="S1"/>
+    <dp ct="2605260837" l="S1"/>
+</s>
+
+
+<s id="-8593950030212315578-2605260821-5" eva="8089078">
+    <ar ct="2605260835" l="S7"/>
+    <dp ct="2605260836" l="S7"/>
+</s>
+
+
+<s id="-6258633030036935248-2605260811-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)" ct="2605260914" cs="c" clt="2605260834" l="S7"/>
+    <dp cpth="" ct="2605260914" cs="c" clt="2605260834" l="S7"/>
+</s>
+
+
+<s id="636733283786003068-2605260731-25" eva="8089078">
+    <ar ct="2605260830" l="S7"/>
+    <dp ct="2605260830" l="S7"/>
+</s>
+
+
+<s id="5407846585181429487-2605260824-2" eva="8089078">
+    <ar ct="2605260826" l="S1"/>
+    <dp ct="2605260827" l="S1"/>
+</s>
+
+
+<s id="-2118129550114776182-2605260811-5" eva="8089078">
+    <ar ct="2605260825" l="S7"/>
+    <dp ct="2605260825" l="S7"/>
+</s>
+
+
+<s id="5794487845345879670-2605260721-25" eva="8089078">
+    <ar ct="2605260820" l="S7"/>
+    <dp ct="2605260820" l="S7"/>
+</s>
+
+
+<s id="5480210442512211411-2605260715-29" eva="8089078">
+    <ar ct="2605260820" l="S1"/>
+    <dp ct="2605260820" l="S1"/>
+</s>
+
+
+<s id="-8900853721145935215-2605260814-2" eva="8089078">
+    <ar ct="2605260816" l="S1"/>
+    <dp ct="2605260817" l="S1"/>
+</s>
+
+
+<s id="-4538792387024972840-2605260801-5" eva="8089078">
+    <ar ct="2605260815" l="S7"/>
+    <dp ct="2605260816" l="S7"/>
+</s>
+
+
+<s id="398857489194859952-2605270041-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke|Berlin Ostbahnhof (S)" l="S7"/>
+</s>
+
+
+<s id="-2159877480966285483-2605270001-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7"/>
+</s>
+
+
+<s id="-7320758964149291748-2605270021-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)|Berlin Hackescher Markt|Berlin Alexanderplatz (S)|Berlin Jannowitzbrücke" l="S7"/>
+</s>
+
+
+<s id="-5534965849079604138-2605270031-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)|Berlin Jannowitzbrücke|Berlin Alexanderplatz (S)|Berlin Hackescher Markt" cs="c" clt="2605260432" l="S7"/>
+    <dp cpth="" cs="c" clt="2605260432" l="S7"/>
+</s>
+
+
+<s id="-4827287623827181677-2605270011-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260412" l="S7"/>
+    <dp cpth="" cs="c" clt="2605260412" l="S7"/>
+</s>
+
+
+<s id="-2640118173465362191-2605260711-25" eva="8089078">
+    <ar ct="2605260810" l="S7"/>
+    <dp ct="2605260810" l="S7"/>
+</s>
+
+
+<s id="93802085369781544-2605260651-34" eva="8089078">
+    <ar ct="2605260809" l="S1"/>
+    <dp ct="2605260810" l="S1"/>
+</s>
+
+
+<s id="-3832860924728279914-2605260804-2" eva="8089078">
+    <ar ct="2605260806" l="S1"/>
+    <dp ct="2605260807" l="S1"/>
+</s>
+
+
+<s id="-3307758582355200054-2605260751-5" eva="8089078">
+    <ar ct="2605260805" l="S7"/>
+    <dp ct="2605260805" l="S7"/>
+</s>
+
+
+<s id="-4372902990706972824-2605260854-2" eva="8089078">
+    <ar cpth="" cs="c" clt="2605260804" l="S1"/>
+    <dp cpth="Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)|Birkenwerder(b Berlin)|Borgsdorf|Lehnitz|Oranienburg (S)" cs="c" clt="2605260804" l="S1"/>
+</s>
+
+
+<s id="2981070910838239325-2605260723-30" eva="8089078">
+    <ar cpth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf" ppth="Hohen Neuendorf(b Berlin)|Berlin-Frohnau|Berlin-Hermsdorf|Berlin-Waidmannslust|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Wilhelmsruh|Berlin-Schönholz|Berlin Wollankstraße|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S1)|Berlin Julius-Leber-Brücke|Berlin-Schöneberg|Berlin-Friedenau|Berlin Feuerbachstr.|Berlin Rathaus Steglitz|Berlin Botanischer Garten|Berlin-Lichterfelde West|Berlin Sundgauer Str|Berlin-Zehlendorf|Berlin Mexikoplatz|Berlin-Schlachtensee" pp="1" ct="2605260844" pt="2605260828" cs="c" clt="2605260804" l="1" fb="S 1"/>
+    <dp cpth="" ppth="Berlin-Wannsee (S)" pp="1" ct="2605260845" pt="2605260829" cs="c" clt="2605260804" l="1" fb="S 1"/>
+    <tl f="S" t="s" o="08" c="S" n="10069"/>
+</s>
+
+
+<s id="3762677168513508695-2605260701-25" eva="8089078">
+    <ar ct="2605260759" l="S7"/>
+    <dp ct="2605260800" l="S7"/>
+</s>
+
+
+<s id="1791660472015178827-2605260655-29" eva="8089078">
+    <ar ct="2605260759" l="S1"/>
+    <dp ct="2605260800" l="S1"/>
+</s>
+
+
+<s id="-4945425538632673766-2605260754-2" eva="8089078">
+    <ar ct="2605260756" l="S1"/>
+    <dp ct="2605260757" l="S1"/>
+</s>
+
+
+<s id="-7659086120958122823-2605260741-5" eva="8089078">
+    <ar ct="2605260755" l="S7"/>
+    <dp ct="2605260755" l="S7"/>
+</s>
+
+
+<s id="-6226180708724804686-2605260631-34" eva="8089078">
+    <ar ct="2605260750" l="S1"/>
+    <dp ct="2605260750" l="S1"/>
+</s>
+
+
+<s id="6013812335865754676-2605260651-25" eva="8089078">
+    <ar ct="2605260750" l="S7"/>
+    <dp ct="2605260750" l="S7"/>
+</s>
+
+
+<s id="-8769821864380529772-2605260744-2" eva="8089078">
+    <ar ct="2605260747" l="S1"/>
+    <dp ct="2605260747" l="S1"/>
+</s>
+
+
+<s id="7012086047380989146-2605260731-5" eva="8089078">
+    <ar ct="2605260745" l="S7"/>
+    <dp ct="2605260746" l="S7"/>
+</s>
+
+
+<s id="224104861253230290-2605260641-25" eva="8089078">
+    <ar ct="2605260740" l="S7"/>
+    <dp ct="2605260740" l="S7"/>
+</s>
+
+
+<s id="4242613247259718315-2605260635-29" eva="8089078">
+    <ar ct="2605260739" l="S1"/>
+    <dp ct="2605260740" l="S1"/>
+</s>
+
+
+<s id="7603533568372174555-2605260734-2" eva="8089078">
+    <ar ct="2605260736" l="S1"/>
+    <dp ct="2605260737" l="S1"/>
+</s>
+
+
+<s id="8408689481162667569-2605260721-5" eva="8089078">
+    <ar ct="2605260735" l="S7"/>
+    <dp ct="2605260735" l="S7"/>
+</s>
+
+
+<s id="6664275538282873878-2605260631-25" eva="8089078">
+    <ar ct="2605260730" l="S7"/>
+    <dp ct="2605260730" l="S7"/>
+</s>
+
+
+<s id="-4540155152290178698-2605260611-34" eva="8089078">
+    <ar ct="2605260729" l="S1"/>
+    <dp ct="2605260730" l="S1"/>
+</s>
+
+
+<s id="-8123594914713961525-2605260711-34" eva="8089078">
+    <ar cpth="Oranienburg (S)|Lehnitz|Borgsdorf|Birkenwerder(b Berlin)" ct="2605260833" cs="c" clt="2605260727" l="S1"/>
+    <dp cpth="" ct="2605260834" cs="c" clt="2605260727" l="S1"/>
+</s>
+
+
+<s id="1120248909480865841-2605260724-2" eva="8089078">
+    <ar ct="2605260726" l="S1"/>
+    <dp ct="2605260727" l="S1"/>
+</s>
+
+
+<s id="-6355538485874120765-2605260711-5" eva="8089078">
+    <ar ct="2605260726" l="S7"/>
+    <dp ct="2605260726" l="S7"/>
+</s>
+
+
+<s id="-657222865300236134-2605260614-2" eva="8089078">
+    <ar cpth="Berlin-Wannsee (S)" ct="2605260616" l="S1"/>
+    <dp cpth="Berlin-Schlachtensee|Berlin Mexikoplatz|Berlin-Zehlendorf|Berlin Sundgauer Str|Berlin-Lichterfelde West|Berlin Botanischer Garten|Berlin Rathaus Steglitz|Berlin Feuerbachstr.|Berlin-Friedenau|Berlin-Schöneberg|Berlin Julius-Leber-Brücke|Berlin Yorckstr.(S1)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Schönholz|Berlin-Wilhelmsruh|Berlin-Wittenau (Wilhelmsruher Damm)|Berlin-Waidmannslust|Berlin-Hermsdorf|Berlin-Frohnau|Hohen Neuendorf(b Berlin)" ct="2605260617" l="S1"/>
+</s>
+
+
+<s id="-7652875199961539517-2605260719-2" eva="8089078">
+    <ar ct="2605260721" l="S1"/>
+    <dp ct="2605260721" l="S1"/>
+</s>
+
+
+<s id="1109066834260013947-2605260615-29" eva="8089078">
+    <ar ct="2605260720" l="S1"/>
+    <dp ct="2605260721" l="S1"/>
+</s>
+
+
+<s id="463647224416583421-2605260621-25" eva="8089078">
+    <ar ct="2605260720" l="S7"/>
+    <dp ct="2605260721" l="S7"/>
+</s>
+
+
+<s id="-6865645098420147576-2605260714-2" eva="8089078">
+    <ar ct="2605260717" l="S1"/>
+    <dp ct="2605260718" l="S1"/>
+</s>
+
+
+<s id="8845262228362009105-2605260701-5" eva="8089078">
+    <ar ct="2605260717" l="S7"/>
+    <dp ct="2605260717" l="S7"/>
+</s>
+
+
+<s id="8783116678913773719-2605262351-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260352" l="S7">
+        <m id="r57750078" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:59.520"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2605260352" l="S7">
+        <m id="r57750078" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:59.520"/>
+    </dp>
+</s>
+
+
+<s id="-5116200977454988467-2605262331-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260332" l="S7">
+        <m id="r57750048" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:28.616"/>
+    </ar>
+    <dp cpth="" cs="c" clt="2605260332" l="S7">
+        <m id="r57750048" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:28.616"/>
+    </dp>
+</s>
+
+
+<s id="6397578513258634163-2605262341-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7">
+        <m id="r57749658" t="f" c="0" ts="2605260538" ts-tts="26-05-26 05:38:13.504"/>
+    </ar>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7">
+        <m id="r57749658" t="f" c="0" ts="2605260538" ts-tts="26-05-26 05:38:13.504"/>
+    </dp>
+</s>
+
+
+<s id="6786112085151129871-2605262311-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260312" l="S7"/>
+    <dp cpth="" cs="c" clt="2605260312" l="S7"/>
+</s>
+
+
+<s id="3332264459580462531-2605262321-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7">
+        <m id="r57749763" t="f" c="0" ts="2605260540" ts-tts="26-05-26 05:40:48.244"/>
+    </ar>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7">
+        <m id="r57749763" t="f" c="0" ts="2605260540" ts-tts="26-05-26 05:40:48.244"/>
+    </dp>
+</s>
+
+
+<s id="3787430757885343072-2605262301-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7"/>
+</s>
+
+
+<s id="8120603910668618687-2605260709-2" eva="8089078">
+    <ar ct="2605260712" l="S1"/>
+    <dp ct="2605260712" l="S1"/>
+</s>
+
+
+<s id="-1577030305695800077-2605260611-25" eva="8089078">
+    <ar ct="2605260710" l="S7"/>
+    <dp ct="2605260710" l="S7"/>
+</s>
+
+
+<s id="1868149928068764884-2605260551-34" eva="8089078">
+    <ar ct="2605260709" l="S1"/>
+    <dp ct="2605260710" l="S1"/>
+</s>
+
+
+<s id="2243570068862004967-2605260704-2" eva="8089078">
+    <ar ct="2605260707" l="S1"/>
+    <dp ct="2605260708" l="S1"/>
+</s>
+
+
+<s id="-9069514685844319235-2605260651-5" eva="8089078">
+    <ar ct="2605260707" l="S7"/>
+    <dp ct="2605260708" l="S7"/>
+</s>
+
+
+<s id="-2656842248604378999-2605260659-2" eva="8089078">
+    <ar ct="2605260701" l="S1"/>
+    <dp ct="2605260702" l="S1"/>
+</s>
+
+
+<s id="-3863993523873211707-2605260601-25" eva="8089078">
+    <ar ct="2605260700" l="S7"/>
+    <dp ct="2605260700" l="S7"/>
+</s>
+
+
+<s id="-1443046085995088361-2605260555-29" eva="8089078">
+    <ar ct="2605260659" l="S1"/>
+    <dp ct="2605260700" l="S1"/>
+</s>
+
+
+<s id="6562316651986444316-2605260654-2" eva="8089078">
+    <ar ct="2605260656" l="S1"/>
+    <dp ct="2605260657" l="S1"/>
+</s>
+
+
+<s id="-1556942503135678581-2605260641-5" eva="8089078">
+    <ar ct="2605260655" l="S7"/>
+    <dp ct="2605260656" l="S7"/>
+</s>
+
+
+<s id="4978981617272558222-2605260649-2" eva="8089078">
+    <ar ct="2605260651" l="S1"/>
+    <dp ct="2605260652" l="S1"/>
+</s>
+
+
+<s id="2785839815075064977-2605260551-25" eva="8089078">
+    <ar ct="2605260650" l="S7"/>
+    <dp ct="2605260650" l="S7"/>
+</s>
+
+
+<s id="7484612538207867028-2605260644-2" eva="8089078">
+    <ar ct="2605260648" l="S1"/>
+    <dp ct="2605260649" l="S1"/>
+</s>
+
+
+<s id="7772962237686573161-2605260631-5" eva="8089078">
+    <ar ct="2605260647" l="S7"/>
+    <dp ct="2605260648" l="S7"/>
+</s>
+
+
+<s id="8831180891913267119-2605260639-2" eva="8089078">
+    <ar ct="2605260644" l="S1"/>
+    <dp ct="2605260645" l="S1"/>
+</s>
+
+
+<s id="736851939889401734-2605260634-2" eva="8089078">
+    <ar ct="2605260636" l="S1"/>
+    <dp ct="2605260637" l="S1"/>
+</s>
+
+
+<s id="3520518886932058119-2605270104-10" eva="8089078">
+    <ar cpth="" ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605270130" cs="c" clt="2605260636" l="7" fb="S 7"/>
+    <dp cpth="" ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605270130" cs="c" clt="2605260636" l="7" fb="S 7"/>
+    <tl f="S" t="e" o="08" c="S" n="70164"/>
+</s>
+
+
+<s id="-7222975701774949704-2605260621-5" eva="8089078">
+    <ar ct="2605260634" l="S7"/>
+    <dp ct="2605260635" l="S7"/>
+</s>
+
+
+<s id="-482162929926004865-2605262324-10" eva="8089078">
+    <ar cpth="" ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605262350" cs="c" clt="2605260630" l="7" fb="S 7"/>
+    <dp cpth="" ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605262350" cs="c" clt="2605260630" l="7" fb="S 7"/>
+    <tl f="S" t="e" o="08" c="S" n="70154"/>
+</s>
+
+
+<s id="3775154465970893887-2605260624-2" eva="8089078">
+    <ar ct="2605260626" l="S1"/>
+    <dp ct="2605260627" l="S1"/>
+</s>
+
+
+<s id="5840654799353224146-2605260611-5" eva="8089078">
+    <ar ct="2605260624" l="S7"/>
+    <dp ct="2605260625" l="S7"/>
+</s>
+
+
+<s id="-3227737875203860432-2605260601-5" eva="8089078">
+    <ar ct="2605260614" l="S7"/>
+    <dp ct="2605260615" l="S7"/>
+</s>
+
+
+<s id="802454744916316135-2605262241-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7"/>
+</s>
+
+
+<s id="-1290745452295198555-2605262221-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7"/>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)|Berlin Savignyplatz|Berlin Zoologischer Garten (S)|Berlin-Tiergarten|Berlin Bellevue|Berlin Hbf (S-Bahn)|Berlin Friedrichstraße (S)" l="S7"/>
+</s>
+
+
+<s id="-4974155122273476899-2605262251-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260252" l="S7"/>
+    <dp cpth="" cs="c" clt="2605260252" l="S7"/>
+</s>
+
+
+<s id="6656481945246699876-2605262231-25" eva="8089078">
+    <ar cpth="Ahrensfelde (S)|Berlin Mehrower Allee|Berlin Raoul-Wallenberg-Str.|Berlin-Marzahn|Berlin Poelchaustr.|Berlin Springpfuhl|Berlin-Friedrichsfelde Ost|Berlin-Lichtenberg (S)|Berlin Nöldnerplatz|Berlin Ostkreuz (S)|Berlin Warschauer Straße|Berlin Ostbahnhof (S)" cs="c" clt="2605260232" l="S7"/>
+    <dp cpth="" cs="c" clt="2605260232" l="S7"/>
+</s>
+
+
+<s id="-5200604543078856360-2605260604-2" eva="8089078">
+    <ar ct="2605260606" l="S1"/>
+    <dp ct="2605260606" l="S1"/>
+</s>
+
+
+<s id="-3850610608678024582-2605260551-5" eva="8089078">
+    <ar ct="2605260605" l="S7"/>
+    <dp ct="2605260605" l="S7"/>
+</s>
+
+
+<s id="-6540946204237976193-2605260554-2" eva="8089078">
+    <ar ct="2605260556" l="S1"/>
+    <dp ct="2605260556" l="S1"/>
+</s>
+
+
+<s id="5447574807396941146-2605270024-10" eva="8089078">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605270050" l="S7" fb="S7">
+        <m id="r57750079" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:59.520"/>
+    </ar>
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605270050" l="S7" fb="S7">
+        <m id="r57750079" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:59.520"/>
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="70160"/>
+</s>
+
+
+<s id="1734246269530408315-2605270004-10" eva="8089078">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605270030" l="S7" fb="S7">
+        <m id="r57750049" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:28.616"/>
+    </ar>
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605270030" l="S7" fb="S7">
+        <m id="r57750049" t="f" c="0" ts="2605260546" ts-tts="26-05-26 05:46:28.616"/>
+    </dp>
+    <tl f="S" t="e" o="08" c="S" n="70158"/>
+</s>
+
+
+<s id="-8243913908166035137-2605262141-5" eva="8089078">
+    <ar cpth="Potsdam Hbf (S)|Potsdam-Babelsberg|Potsdam Griebnitzsee (S)|Berlin-Wannsee (S)" l="S7">
+        <m id="r57748352" t="f" c="0" ts="2605260456" ts-tts="26-05-26 04:56:46.844"/>
+        <m id="r57748354" t="f" c="0" ts="2605260456" ts-tts="26-05-26 04:56:46.844"/>
+    </ar>
+    <dp cpth="Berlin-Grunewald|Berlin Westkreuz|Berlin Charlottenburg (S)" l="S7">
+        <m id="r57748352" t="f" c="0" ts="2605260456" ts-tts="26-05-26 04:56:46.844"/>
+        <m id="r57748354" t="f" c="0" ts="2605260456" ts-tts="26-05-26 04:56:46.844"/>
+    </dp>
+</s>
+
+
+<s id="1024383469769346815-2605270044-10" eva="8089078">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605270110" l="7" fb="S 7"/>
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605270110" l="7" fb="S 7"/>
+    <tl f="S" t="e" o="08" c="S" n="70162"/>
+</s>
+
+
+<s id="-6617467177828768166-2605262344-10" eva="8089078">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605270010" l="7" fb="S 7"/>
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605270010" l="7" fb="S 7"/>
+    <tl f="S" t="e" o="08" c="S" n="70156"/>
+</s>
+
+
+<s id="-1852429589281483394-2605262304-10" eva="8089078">
+    <ar ppth="Berlin Friedrichstraße (S)|Berlin Hbf (S-Bahn)|Berlin Bellevue|Berlin-Tiergarten|Berlin Zoologischer Garten (S)|Berlin Savignyplatz|Berlin Charlottenburg (S)|Berlin Westkreuz|Berlin-Grunewald" pp="3" pt="2605262330" l="7" fb="S 7"/>
+    <dp ppth="Berlin-Wannsee (S)|Potsdam Griebnitzsee (S)|Potsdam-Babelsberg|Potsdam Hbf (S)" pp="3" pt="2605262330" l="7" fb="S 7"/>
+    <tl f="S" t="e" o="08" c="S" n="70152"/>
+</s>
+
+</timetable>

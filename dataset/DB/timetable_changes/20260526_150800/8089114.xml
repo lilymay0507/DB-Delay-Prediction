@@ -1,0 +1,654 @@
+<timetable station="Berlin-Lankwitz" eva="8089114">
+
+<s id="5432682776145350464-2605261435-17" eva="8089114">
+    <ar ct="2605261512" l="S26"/>
+    <dp ct="2605261511" l="S26"/>
+</s>
+
+
+<s id="3480598088572130985-2605261455-5" eva="8089114">
+    <ar ct="2605261505" l="S26"/>
+    <dp ct="2605261506" l="S26"/>
+</s>
+
+
+<s id="-1757686243050492079-2605261408-23" eva="8089114">
+    <ar ct="2605261502" l="S25"/>
+    <dp ct="2605261503" l="S25"/>
+</s>
+
+
+<s id="-6250439522878357574-2605261515-17" eva="8089114">
+    <ar ct="2605261551" l="S26"/>
+    <dp ct="2605261551" l="S26"/>
+</s>
+
+
+<s id="-4151627679567144578-2605261515-5" eva="8089114">
+    <ar ct="2605261524" l="S26"/>
+    <dp ct="2605261524" l="S26"/>
+</s>
+
+
+<s id="377736910275521805-2605261445-5" eva="8089114">
+    <ar ct="2605261454" l="S25"/>
+    <dp ct="2605261455" l="S25"/>
+</s>
+
+
+<s id="-5775035080296883249-2605261448-23" eva="8089114">
+    <ar ct="2605261542" l="S25"/>
+    <dp ct="2605261542" l="S25"/>
+</s>
+
+
+<s id="5195586194404953786-2605261508-23" eva="8089114">
+    <ar ct="2605261601" l="S25"/>
+    <dp ct="2605261601" l="S25"/>
+</s>
+
+
+<s id="-9031231593525407702-2605261415-17" eva="8089114">
+    <ar ct="2605261451" l="S26"/>
+    <dp ct="2605261452" l="S26"/>
+</s>
+
+
+<s id="-2105291442131256031-2605261505-5" eva="8089114">
+    <ar ct="2605261514" l="S25"/>
+    <dp ct="2605261514" l="S25"/>
+</s>
+
+
+<s id="8780264991288993738-2605261435-5" eva="8089114">
+    <ar ct="2605261445" l="S26"/>
+    <dp ct="2605261445" l="S26"/>
+</s>
+
+
+<s id="-3943282954174632296-2605261348-23" eva="8089114">
+    <ar ct="2605261441" l="S25"/>
+    <dp ct="2605261442" l="S25"/>
+</s>
+
+
+<s id="-6055706799278575393-2605261455-17" eva="8089114">
+    <ar ct="2605261531" l="S26"/>
+    <dp ct="2605261531" l="S26"/>
+</s>
+
+
+<s id="-8661604055519905785-2605261425-5" eva="8089114">
+    <ar ct="2605261434" l="S25"/>
+    <dp ct="2605261435" l="S25"/>
+</s>
+
+
+<s id="-6987767707760135858-2605261355-17" eva="8089114">
+    <ar ct="2605261431" l="S26"/>
+    <dp ct="2605261432" l="S26"/>
+</s>
+
+
+<s id="-6273811174645192051-2605261415-5" eva="8089114">
+    <ar ct="2605261427" l="S26"/>
+    <dp ct="2605261427" l="S26"/>
+</s>
+
+
+<s id="-3430357682903818576-2605261328-23" eva="8089114">
+    <ar ct="2605261424" l="S25"/>
+    <dp ct="2605261425" l="S25"/>
+</s>
+
+
+<s id="-9087595738614154176-2605261405-5" eva="8089114">
+    <ar ct="2605261415" l="S25"/>
+    <dp ct="2605261415" l="S25"/>
+</s>
+
+
+<s id="-2887532930837459923-2605261428-23" eva="8089114">
+    <ar ct="2605261521" l="S25"/>
+    <dp ct="2605261521" l="S25"/>
+</s>
+
+
+<s id="-8532164057598722733-2605261335-17" eva="8089114">
+    <ar ct="2605261412" l="S26"/>
+    <dp ct="2605261413" l="S26"/>
+</s>
+
+
+<s id="-834159543467109457-2605261355-5" eva="8089114">
+    <ar ct="2605261404" l="S26"/>
+    <dp ct="2605261405" l="S26"/>
+</s>
+
+
+<s id="-8545059264735345141-2605261308-23" eva="8089114">
+    <ar ct="2605261401" l="S25"/>
+    <dp ct="2605261402" l="S25"/>
+</s>
+
+
+<s id="-6944197438870840303-2605261345-5" eva="8089114">
+    <ar ct="2605261354" l="S25"/>
+    <dp ct="2605261355" l="S25"/>
+</s>
+
+
+<s id="8707416718333016728-2605261315-17" eva="8089114">
+    <ar ct="2605261351" l="S26"/>
+    <dp ct="2605261352" l="S26"/>
+</s>
+
+
+<s id="4415611691318672133-2605261335-5" eva="8089114">
+    <ar ct="2605261345" l="S26"/>
+    <dp ct="2605261345" l="S26"/>
+</s>
+
+
+<s id="-3549212659995290555-2605261248-23" eva="8089114">
+    <ar ct="2605261342" l="S25"/>
+    <dp ct="2605261342" l="S25"/>
+</s>
+
+
+<s id="7156173050068683309-2605261325-5" eva="8089114">
+    <ar ct="2605261337" l="S25"/>
+    <dp ct="2605261337" l="S25"/>
+</s>
+
+
+<s id="-4230972534167272764-2605261303-14" eva="8089114">
+    <ar ppth="Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" pp="2" ct="2605261334" pt="2605261331" l="26" fb="S 26"/>
+    <dp ppth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" pp="2" ct="2605261335" pt="2605261331" l="26" fb="S 26"/>
+    <tl f="S" t="e" o="08" c="S" n="28569"/>
+    <ref>
+        <tl f="S" t="p" o="08" c="S" n="26569"/>
+    </ref>
+</s>
+
+
+<s id="1966176392821906984-2605261315-5" eva="8089114">
+    <ar ct="2605261325" l="S26"/>
+    <dp ct="2605261325" l="S26"/>
+</s>
+
+
+<s id="750350837738512586-2605261228-23" eva="8089114">
+    <ar ct="2605261321" l="S25"/>
+    <dp ct="2605261322" l="S25"/>
+</s>
+
+
+<s id="977252073497369420-2605261305-5" eva="8089114">
+    <ar ct="2605261315" l="S25"/>
+    <dp ct="2605261316" l="S25"/>
+</s>
+
+
+<s id="-8346949048748769447-2605261235-17" eva="8089114">
+    <ar ct="2605261312" l="S26"/>
+    <dp ct="2605261313" l="S26"/>
+</s>
+
+
+<s id="-7307767401631412971-2605261255-5" eva="8089114">
+    <ar ct="2605261304" l="S26"/>
+    <dp ct="2605261304" l="S26"/>
+</s>
+
+
+<s id="-482885960881430314-2605261208-23" eva="8089114">
+    <ar ct="2605261301" l="S25"/>
+    <dp ct="2605261302" l="S25"/>
+</s>
+
+
+<s id="6075802343504882735-2605261245-5" eva="8089114">
+    <ar ct="2605261254" l="S25"/>
+    <dp ct="2605261255" l="S25"/>
+</s>
+
+
+<s id="-521151836066166172-2605261215-17" eva="8089114">
+    <ar ct="2605261251" l="S26"/>
+    <dp ct="2605261252" l="S26"/>
+</s>
+
+
+<s id="2180902073299215923-2605261235-5" eva="8089114">
+    <ar ct="2605261244" l="S26"/>
+    <dp ct="2605261245" l="S26"/>
+</s>
+
+
+<s id="-7597213137856766632-2605261148-23" eva="8089114">
+    <ar ct="2605261241" l="S25"/>
+    <dp ct="2605261242" l="S25"/>
+</s>
+
+
+<s id="8145978036460346213-2605261225-5" eva="8089114">
+    <ar ct="2605261234" l="S25"/>
+    <dp ct="2605261235" l="S25"/>
+</s>
+
+
+<s id="-3414550981792150961-2605261155-17" eva="8089114">
+    <ar ct="2605261231" l="S26"/>
+    <dp ct="2605261231" l="S26"/>
+</s>
+
+
+<s id="2226027283471872018-2605261215-5" eva="8089114">
+    <ar ct="2605261225" l="S26"/>
+    <dp ct="2605261225" l="S26"/>
+</s>
+
+
+<s id="7163279000223275213-2605261128-23" eva="8089114">
+    <ar ct="2605261221" l="S25"/>
+    <dp ct="2605261222" l="S25"/>
+</s>
+
+
+<s id="-7491893074864404610-2605261205-5" eva="8089114">
+    <ar ct="2605261215" l="S25"/>
+    <dp ct="2605261215" l="S25"/>
+</s>
+
+
+<s id="2749471230771501546-2605261135-17" eva="8089114">
+    <ar ct="2605261211" l="S26"/>
+    <dp ct="2605261212" l="S26"/>
+</s>
+
+
+<s id="4649373842608926120-2605261255-17" eva="8089114">
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str." cs="c" clt="2605261206" l="S26"/>
+    <dp cpth="" cs="c" clt="2605261206" l="S26"/>
+</s>
+
+
+<s id="-5728707907581117400-2605261155-5" eva="8089114">
+    <ar ct="2605261204" l="S26"/>
+    <dp ct="2605261205" l="S26"/>
+</s>
+
+
+<s id="4252996639138252924-2605261108-23" eva="8089114">
+    <ar ct="2605261201" l="S25"/>
+    <dp ct="2605261202" l="S25"/>
+</s>
+
+
+<s id="6878401629092471609-2605261145-5" eva="8089114">
+    <ar ct="2605261154" l="S25"/>
+    <dp ct="2605261155" l="S25"/>
+</s>
+
+
+<s id="-8916391822343292993-2605261115-17" eva="8089114">
+    <ar ct="2605261151" l="S26"/>
+    <dp ct="2605261152" l="S26"/>
+</s>
+
+
+<s id="-7024214841070110850-2605261135-5" eva="8089114">
+    <ar ct="2605261144" l="S26"/>
+    <dp ct="2605261145" l="S26"/>
+</s>
+
+
+<s id="1206988604177971731-2605261048-23" eva="8089114">
+    <ar ct="2605261141" l="S25"/>
+    <dp ct="2605261142" l="S25"/>
+</s>
+
+
+<s id="2028069057021669461-2605261125-5" eva="8089114">
+    <ar ct="2605261134" l="S25"/>
+    <dp ct="2605261135" l="S25"/>
+</s>
+
+
+<s id="4725939075634498265-2605261055-17" eva="8089114">
+    <ar ct="2605261131" l="S26"/>
+    <dp ct="2605261131" l="S26"/>
+</s>
+
+
+<s id="5756966906126308901-2605261115-5" eva="8089114">
+    <ar ct="2605261124" l="S26"/>
+    <dp ct="2605261125" l="S26"/>
+</s>
+
+
+<s id="7765345744686364326-2605261028-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261121" l="S25"/>
+    <dp ct="2605261122" l="S25"/>
+</s>
+
+
+<s id="-8862737456151411599-2605261105-5" eva="8089114">
+    <ar ct="2605261114" l="S25"/>
+    <dp ct="2605261115" l="S25"/>
+</s>
+
+
+<s id="5475149365050888356-2605261035-17" eva="8089114">
+    <ar ct="2605261111" l="S26"/>
+    <dp ct="2605261111" l="S26"/>
+</s>
+
+
+<s id="8347085687811020840-2605261055-5" eva="8089114">
+    <ar ct="2605261106" l="S26"/>
+    <dp ct="2605261107" l="S26"/>
+</s>
+
+
+<s id="-882737627872397541-2605261008-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261103" l="S25"/>
+    <dp ct="2605261104" l="S25"/>
+</s>
+
+
+<s id="-3975021974581775657-2605261045-5" eva="8089114">
+    <ar ct="2605261054" l="S25"/>
+    <dp ct="2605261055" l="S25"/>
+</s>
+
+
+<s id="3122406262400343739-2605261015-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605261051" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605261051" l="S26"/>
+</s>
+
+
+<s id="-675224540344357260-2605261035-5" eva="8089114">
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605261045" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605261045" l="S26"/>
+</s>
+
+
+<s id="1440186281936446891-2605260948-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261041" l="S25"/>
+    <dp ct="2605261042" l="S25"/>
+</s>
+
+
+<s id="-1288688719085347713-2605261025-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261035" l="S25"/>
+    <dp ct="2605261035" l="S25"/>
+</s>
+
+
+<s id="-5475908992423622383-2605260955-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605261031" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605261032" l="S26"/>
+</s>
+
+
+<s id="-2303891573299957119-2605261015-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605261025" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605261025" l="S26"/>
+</s>
+
+
+<s id="293678757040141657-2605260928-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261021" l="S25"/>
+    <dp ct="2605261022" l="S25"/>
+</s>
+
+
+<s id="7155941340183674455-2605261005-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261015" l="S25"/>
+    <dp ct="2605261016" l="S25"/>
+</s>
+
+
+<s id="-1092610589191922745-2605260935-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605261012" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605261012" l="S26"/>
+</s>
+
+
+<s id="4976759017042132491-2605260955-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Teltow Stadt|Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605261005" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605261005" l="S26"/>
+</s>
+
+
+<s id="-4101181349325622090-2605260908-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605261002" l="S25"/>
+    <dp ct="2605261003" l="S25"/>
+</s>
+
+
+<s id="4931349823537274416-2605260945-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260954" l="S25"/>
+    <dp ct="2605260955" l="S25"/>
+</s>
+
+
+<s id="7101012518885127652-2605260915-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260951" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605260952" l="S26"/>
+</s>
+
+
+<s id="-2325902897086108489-2605260935-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260944" l="S26"/>
+    <dp ct="2605260945" l="S26"/>
+</s>
+
+
+<s id="7513500183523305759-2605260848-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260941" l="S25"/>
+    <dp ct="2605260942" l="S25"/>
+</s>
+
+
+<s id="216972288008623041-2605260925-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260935" l="S25"/>
+    <dp ct="2605260935" l="S25"/>
+</s>
+
+
+<s id="-1287345277131753784-2605260855-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260931" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605260932" l="S26"/>
+</s>
+
+
+<s id="-9083921232904905854-2605260915-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260925" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260926" l="S26"/>
+</s>
+
+
+<s id="-671215877531104954-2605260828-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260922" l="S25"/>
+    <dp ct="2605260923" l="S25"/>
+</s>
+
+
+<s id="-2836933165966720424-2605260905-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260915" l="S25"/>
+    <dp ct="2605260916" l="S25"/>
+</s>
+
+
+<s id="1144007675886845294-2605260835-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260912" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd|Teltow Stadt" ct="2605260913" l="S26"/>
+</s>
+
+
+<s id="7000511655711955747-2605260855-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260905" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260906" l="S26"/>
+</s>
+
+
+<s id="-2663825851841725250-2605260808-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260902" l="S25"/>
+    <dp ct="2605260903" l="S25"/>
+</s>
+
+
+<s id="-1063706794313098340-2605260845-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260856" l="S25"/>
+    <dp ct="2605260856" l="S25"/>
+</s>
+
+
+<s id="1027211373461406537-2605260815-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260853" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd" ct="2605260854" l="S26"/>
+</s>
+
+
+<s id="5577994091699556256-2605260835-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260846" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260848" l="S26"/>
+</s>
+
+
+<s id="-7180113688026526395-2605260748-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260844" l="S25"/>
+    <dp ct="2605260844" l="S25"/>
+</s>
+
+
+<s id="8838409055434489762-2605260825-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260835" l="S25"/>
+    <dp ct="2605260836" l="S25"/>
+</s>
+
+
+<s id="3748555303017486184-2605260755-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260832" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd" ct="2605260833" l="S26"/>
+</s>
+
+
+<s id="-1256691601649088445-2605260815-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260827" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260827" l="S26"/>
+</s>
+
+
+<s id="7712956874216709527-2605260728-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260824" l="S25"/>
+    <dp ct="2605260825" l="S25"/>
+</s>
+
+
+<s id="-4386323086321689091-2605260805-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260815" l="S25"/>
+    <dp ct="2605260816" l="S25"/>
+</s>
+
+
+<s id="-5646031125689047705-2605260715-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260751" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd" ct="2605260752" l="S26"/>
+</s>
+
+
+<s id="1360485503832726981-2605260735-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260744" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260745" l="S26"/>
+</s>
+
+
+<s id="-4511049944015103113-2605260715-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260724" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260725" l="S26"/>
+</s>
+
+
+<s id="-7362182485437141167-2605260708-23" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260802" l="S25"/>
+    <dp ct="2605260803" l="S25"/>
+</s>
+
+
+<s id="-8306813654815949243-2605260745-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260754" l="S25"/>
+    <dp ct="2605260755" l="S25"/>
+</s>
+
+
+<s id="5852033898101574638-2605260725-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260734" l="S25"/>
+    <dp ct="2605260735" l="S25"/>
+</s>
+
+
+<s id="-7626756881048900359-2605260705-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar ct="2605260714" l="S25"/>
+    <dp ct="2605260715" l="S25"/>
+</s>
+
+
+<s id="-5183070030428773628-2605260755-5" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Lichterfelde Süd|Berlin Osdorfer Straße|Berlin-Lichterfelde Ost (S)" ct="2605260805" l="S26"/>
+    <dp cpth="Berlin Südende|Berlin Priesterweg|Berlin Südkreuz (S)|Berlin Yorckstr.(S2)|Berlin Anhalter Bf|Berlin Potsdamer Platz (S)|Berlin Brandenburger Tor|Berlin Friedrichstraße (S)|Berlin Oranienburger Straße|Berlin Nordbahnhof|Berlin Humboldthain|Berlin Gesundbrunnen(S)|Berlin Bornholmer Str.|Berlin-Pankow|Berlin-Pankow-Heinersdorf|Berlin-Blankenburg" ct="2605260806" l="S26"/>
+</s>
+
+
+<s id="-2160550445799840707-2605260735-17" eva="8089114">
+    <m id="r2626614" t="h" from="2605260530" to="2605261030" cat="Störung" ts="2605260607" ts-tts="26-05-26 08:16:02.584" pr="1"/>
+    <ar cpth="Berlin-Blankenburg|Berlin-Pankow-Heinersdorf|Berlin-Pankow|Berlin Bornholmer Str.|Berlin Gesundbrunnen(S)|Berlin Humboldthain|Berlin Nordbahnhof|Berlin Oranienburger Straße|Berlin Friedrichstraße (S)|Berlin Brandenburger Tor|Berlin Potsdamer Platz (S)|Berlin Anhalter Bf|Berlin Yorckstr.(S2)|Berlin Südkreuz (S)|Berlin Priesterweg|Berlin Südende" ct="2605260812" l="S26"/>
+    <dp cpth="Berlin-Lichterfelde Ost (S)|Berlin Osdorfer Straße|Berlin-Lichterfelde Süd" ct="2605260813" l="S26"/>
+</s>
+
+</timetable>
